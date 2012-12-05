@@ -1,0 +1,12 @@
+use components from biofab.org and partsregistry.org.
+
+construct module alpha  
+	with components apFAB70, BBa_J61100, BBa_K590022, BBa_B0010.
+	
+construct module beta  
+	with components apFAB70, BBa_J61100, BBa_K590022, BBa_B0010.
+
+construct module gamma  
+	with components apFAB70, BBa_J61100, BBa_K590022, BBa_B0010.
+
+export module alpha to SBOL.

@@ -1,0 +1,18 @@
+<?xml version="1.0"?>
+<REGISTRIES>
+
+<repository>
+	<id>biofab.org</id>
+	<type>XMLFileRepository</type>
+	<description>The BioFab's part registry</description>
+	<location>./repository/biofab_modular_promoter_library.xml</location>
+</repository>
+
+<repository>
+	<id>partsregistry.org</id>
+	<type>URLRepository</type>
+	<description>The MIT's part registry</description>
+	<location>http://partsregistry.org/xml/part.</location>
+</repository>
+
+</REGISTRIES>

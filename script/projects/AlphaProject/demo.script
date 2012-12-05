@@ -1,0 +1,4 @@
+use components from biofab.org and partsregistry.org.
+
+construct module alpha
+	with components apFAB70, BBa_J61100, BBa_K590022, apFAB390.

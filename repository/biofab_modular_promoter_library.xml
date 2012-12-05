@@ -1,0 +1,1083 @@
+<?xml version="1.0"?>
+<RECORDS>
+<RECORD>
+	<genetic_part_id>apFAB46</genetic_part_id>
+	<type>promoter</type>
+	<description>Modular Promoter apFAB46</description>
+	<dna_sequence>AAAAAGAGTATTGACTTCGCATCTTTTTGTACCTATAATAGATTCAT</dna_sequence>
+	<plasmid_id>pFAB290</plasmid_id>
+	<mean_fluorescence_per_cell>897.636</mean_fluorescence_per_cell>
+	<mean_fluorescence_per_cell_sd>68.2581</mean_fluorescence_per_cell_sd>
+</RECORD>
+<RECORD>
+	<genetic_part_id>apFAB70</genetic_part_id>
+	<type>promoter</type>
+	<description>Modular Promoter apFAB70</description>
+	<dna_sequence>TTGACATCGCATCTTTTTGTACCTATAATGTGTGGAT</dna_sequence>
+	<plasmid_id>pFAB314</plasmid_id>
+	<mean_fluorescence_per_cell>866.671</mean_fluorescence_per_cell>
+	<mean_fluorescence_per_cell_sd>52.854</mean_fluorescence_per_cell_sd>
+</RECORD>
+<RECORD>
+	<genetic_part_id>apFAB71</genetic_part_id>
+	<type>promoter</type>
+	<description>Modular Promoter apFAB71</description>
+	<dna_sequence>TTGACATCGCATCTTTTTGTACCTATAATAGATTCAT</dna_sequence>
+	<plasmid_id>pFAB315</plasmid_id>
+	<mean_fluorescence_per_cell>866.296</mean_fluorescence_per_cell>
+	<mean_fluorescence_per_cell_sd>23.8798</mean_fluorescence_per_cell_sd>
+</RECORD>
+<RECORD>
+	<genetic_part_id>apFAB61</genetic_part_id>
+	<type>promoter</type>
+	<description>Modular Promoter apFAB61</description>
+	<dna_sequence>TTGACAATTAATCATCCGGCTCGTATAATAGATTCAT</dna_sequence>
+	<plasmid_id>pFAB305</plasmid_id>
+	<mean_fluorescence_per_cell>857.927</mean_fluorescence_per_cell>
+	<mean_fluorescence_per_cell_sd>37.9567</mean_fluorescence_per_cell_sd>
+</RECORD>
+<RECORD>
+	<genetic_part_id>apFAB80</genetic_part_id>
+	<type>promoter</type>
+	<description>Modular Promoter apFAB80</description>
+	<dna_sequence>AAAAAATTTATTTGCTTTAAAGTCTAACCTATAGGTATAATGTGTGGAT</dna_sequence>
+	<plasmid_id>pFAB324</plasmid_id>
+	<mean_fluorescence_per_cell>787.199</mean_fluorescence_per_cell>
+	<mean_fluorescence_per_cell_sd>25.6192</mean_fluorescence_per_cell_sd>
+</RECORD>
+<RECORD>
+	<genetic_part_id>apFAB45</genetic_part_id>
+	<type>promoter</type>
+	<description>Modular Promoter apFAB45</description>
+	<dna_sequence>AAAAAGAGTATTGACTTCGCATCTTTTTGTACCTATAATGTGTGGAT</dna_sequence>
+	<plasmid_id>pFAB289</plasmid_id>
+	<mean_fluorescence_per_cell>785.309</mean_fluorescence_per_cell>
+	<mean_fluorescence_per_cell_sd>61.9569</mean_fluorescence_per_cell_sd>
+</RECORD>
+<RECORD>
+	<genetic_part_id>apFAB47</genetic_part_id>
+	<type>promoter</type>
+	<description>Modular Promoter apFAB47</description>
+	<dna_sequence>AAAAAGAGTATTGACTTCGCATCTTTTTGTACCCATAATTATTTCAT</dna_sequence>
+	<plasmid_id>pFAB291</plasmid_id>
+	<mean_fluorescence_per_cell>782.004</mean_fluorescence_per_cell>
+	<mean_fluorescence_per_cell_sd>72.9013</mean_fluorescence_per_cell_sd>
+</RECORD>
+<RECORD>
+	<genetic_part_id>apFAB31</genetic_part_id>
+	<type>promoter</type>
+	<description>Modular Promoter apFAB31</description>
+	<dna_sequence>AAAAAGAGTATTGACTTAAAGTCTAACCTATAGGTATAATAGATTCAT</dna_sequence>
+	<plasmid_id>pFAB275</plasmid_id>
+	<mean_fluorescence_per_cell>781.826</mean_fluorescence_per_cell>
+	<mean_fluorescence_per_cell_sd>75.2634</mean_fluorescence_per_cell_sd>
+</RECORD>
+<RECORD>
+	<genetic_part_id>apFAB55</genetic_part_id>
+	<type>promoter</type>
+	<description>Modular Promoter apFAB55</description>
+	<dna_sequence>TTGACATAAAGTCTAACCTATAGGTATAATGTGTGGAT</dna_sequence>
+	<plasmid_id>pFAB299</plasmid_id>
+	<mean_fluorescence_per_cell>768.983</mean_fluorescence_per_cell>
+	<mean_fluorescence_per_cell_sd>33.7082</mean_fluorescence_per_cell_sd>
+</RECORD>
+<RECORD>
+	<genetic_part_id>apFAB68</genetic_part_id>
+	<type>promoter</type>
+	<description>Modular Promoter apFAB68</description>
+	<dna_sequence>TTGACATCAGGAAAATTTTTCTGTAGATTTAACGTAT</dna_sequence>
+	<plasmid_id>pFAB312</plasmid_id>
+	<mean_fluorescence_per_cell>766.301</mean_fluorescence_per_cell>
+	<mean_fluorescence_per_cell_sd>28.8109</mean_fluorescence_per_cell_sd>
+</RECORD>
+<RECORD>
+	<genetic_part_id>apFAB101</genetic_part_id>
+	<type>promoter</type>
+	<description>Modular Promoter apFAB101</description>
+	<dna_sequence>AAAAAATTTATTTGCTTTTTATCCCTTGCGGCGATATAATAGATTCAT</dna_sequence>
+	<plasmid_id>pFAB345</plasmid_id>
+	<mean_fluorescence_per_cell>757.959</mean_fluorescence_per_cell>
+	<mean_fluorescence_per_cell_sd>55.4043</mean_fluorescence_per_cell_sd>
+</RECORD>
+<RECORD>
+	<genetic_part_id>apFAB96</genetic_part_id>
+	<type>promoter</type>
+	<description>Modular Promoter apFAB96</description>
+	<dna_sequence>AAAAAATTTATTTGCTTTCGCATCTTTTTGTACCTATAATAGATTCAT</dna_sequence>
+	<plasmid_id>pFAB340</plasmid_id>
+	<mean_fluorescence_per_cell>748.822</mean_fluorescence_per_cell>
+	<mean_fluorescence_per_cell_sd>51.8028</mean_fluorescence_per_cell_sd>
+</RECORD>
+<RECORD>
+	<genetic_part_id>apFAB56</genetic_part_id>
+	<type>promoter</type>
+	<description>Modular Promoter apFAB56</description>
+	<dna_sequence>TTGACATAAAGTCTAACCTATAGGTATAATAGATTCAT</dna_sequence>
+	<plasmid_id>pFAB300</plasmid_id>
+	<mean_fluorescence_per_cell>743.476</mean_fluorescence_per_cell>
+	<mean_fluorescence_per_cell_sd>24.0524</mean_fluorescence_per_cell_sd>
+</RECORD>
+<RECORD>
+	<genetic_part_id>apFAB81</genetic_part_id>
+	<type>promoter</type>
+	<description>Modular Promoter apFAB81</description>
+	<dna_sequence>AAAAAATTTATTTGCTTTAAAGTCTAACCTATAGGTATAATAGATTCAT</dna_sequence>
+	<plasmid_id>pFAB325</plasmid_id>
+	<mean_fluorescence_per_cell>742.631</mean_fluorescence_per_cell>
+	<mean_fluorescence_per_cell_sd>89.9519</mean_fluorescence_per_cell_sd>
+</RECORD>
+<RECORD>
+	<genetic_part_id>apFAB92</genetic_part_id>
+	<type>promoter</type>
+	<description>Modular Promoter apFAB92</description>
+	<dna_sequence>AAAAAATTTATTTGCTTTCAGGAAAATTTTTCTGCATAATTATTTCAT</dna_sequence>
+	<plasmid_id>pFAB336</plasmid_id>
+	<mean_fluorescence_per_cell>742.334</mean_fluorescence_per_cell>
+	<mean_fluorescence_per_cell_sd>32.738</mean_fluorescence_per_cell_sd>
+</RECORD>
+<RECORD>
+	<genetic_part_id>apFAB72</genetic_part_id>
+	<type>promoter</type>
+	<description>Modular Promoter apFAB72</description>
+	<dna_sequence>TTGACATCGCATCTTTTTGTACCCATAATTATTTCAT</dna_sequence>
+	<plasmid_id>pFAB316</plasmid_id>
+	<mean_fluorescence_per_cell>737.59</mean_fluorescence_per_cell>
+	<mean_fluorescence_per_cell_sd>26.0888</mean_fluorescence_per_cell_sd>
+</RECORD>
+<RECORD>
+	<genetic_part_id>apFAB100</genetic_part_id>
+	<type>promoter</type>
+	<description>Modular Promoter apFAB100</description>
+	<dna_sequence>AAAAAATTTATTTGCTTTTTATCCCTTGCGGCGATATAATGTGTGGAT</dna_sequence>
+	<plasmid_id>pFAB344</plasmid_id>
+	<mean_fluorescence_per_cell>736.966</mean_fluorescence_per_cell>
+	<mean_fluorescence_per_cell_sd>13.6966</mean_fluorescence_per_cell_sd>
+</RECORD>
+<RECORD>
+	<genetic_part_id>apFAB76</genetic_part_id>
+	<type>promoter</type>
+	<description>Modular Promoter apFAB76</description>
+	<dna_sequence>TTGACATTTATCCCTTGCGGCGATATAATAGATTCAT</dna_sequence>
+	<plasmid_id>pFAB320</plasmid_id>
+	<mean_fluorescence_per_cell>736.51</mean_fluorescence_per_cell>
+	<mean_fluorescence_per_cell_sd>32.0514</mean_fluorescence_per_cell_sd>
+</RECORD>
+<RECORD>
+	<genetic_part_id>apFAB30</genetic_part_id>
+	<type>promoter</type>
+	<description>Modular Promoter apFAB30</description>
+	<dna_sequence>AAAAAGAGTATTGACTTAAAGTCTAACCTATAGGTATAATGTGTGGAT</dna_sequence>
+	<plasmid_id>pFAB274</plasmid_id>
+	<mean_fluorescence_per_cell>731.463</mean_fluorescence_per_cell>
+	<mean_fluorescence_per_cell_sd>48.4507</mean_fluorescence_per_cell_sd>
+</RECORD>
+<RECORD>
+	<genetic_part_id>apFAB79</genetic_part_id>
+	<type>promoter</type>
+	<description>Modular Promoter apFAB79</description>
+	<dna_sequence>AAAAAATTTATTTGCTTTAAAGTCTAACCTATAGGATACTTACAGCCAT</dna_sequence>
+	<plasmid_id>pFAB323</plasmid_id>
+	<mean_fluorescence_per_cell>728.654</mean_fluorescence_per_cell>
+	<mean_fluorescence_per_cell_sd>32.3264</mean_fluorescence_per_cell_sd>
+</RECORD>
+<RECORD>
+	<genetic_part_id>apFAB75</genetic_part_id>
+	<type>promoter</type>
+	<description>Modular Promoter apFAB75</description>
+	<dna_sequence>TTGACATTTATCCCTTGCGGCGATATAATGTGTGGAT</dna_sequence>
+	<plasmid_id>pFAB319</plasmid_id>
+	<mean_fluorescence_per_cell>717.72</mean_fluorescence_per_cell>
+	<mean_fluorescence_per_cell_sd>48.5417</mean_fluorescence_per_cell_sd>
+</RECORD>
+<RECORD>
+	<genetic_part_id>apFAB50</genetic_part_id>
+	<type>promoter</type>
+	<description>Modular Promoter apFAB50</description>
+	<dna_sequence>AAAAAGAGTATTGACTTTTATCCCTTGCGGCGATATAATGTGTGGAT</dna_sequence>
+	<plasmid_id>pFAB294</plasmid_id>
+	<mean_fluorescence_per_cell>707.166</mean_fluorescence_per_cell>
+	<mean_fluorescence_per_cell_sd>50.1752</mean_fluorescence_per_cell_sd>
+</RECORD>
+<RECORD>
+	<genetic_part_id>apFAB93</genetic_part_id>
+	<type>promoter</type>
+	<description>Modular Promoter apFAB93</description>
+	<dna_sequence>AAAAAATTTATTTGCTTTCAGGAAAATTTTTCTGTAGATTTAACGTAT</dna_sequence>
+	<plasmid_id>pFAB337</plasmid_id>
+	<mean_fluorescence_per_cell>706.957</mean_fluorescence_per_cell>
+	<mean_fluorescence_per_cell_sd>22.212</mean_fluorescence_per_cell_sd>
+</RECORD>
+<RECORD>
+	<genetic_part_id>apFAB54</genetic_part_id>
+	<type>promoter</type>
+	<description>Modular Promoter apFAB54</description>
+	<dna_sequence>TTGACATAAAGTCTAACCTATAGGATACTTACAGCCAT</dna_sequence>
+	<plasmid_id>pFAB298</plasmid_id>
+	<mean_fluorescence_per_cell>690.839</mean_fluorescence_per_cell>
+	<mean_fluorescence_per_cell_sd>15.0981</mean_fluorescence_per_cell_sd>
+</RECORD>
+<RECORD>
+	<genetic_part_id>apFAB62</genetic_part_id>
+	<type>promoter</type>
+	<description>Modular Promoter apFAB62</description>
+	<dna_sequence>TTGACAATTAATCATCCGGCTCGCATAATTATTTCAT</dna_sequence>
+	<plasmid_id>pFAB306</plasmid_id>
+	<mean_fluorescence_per_cell>687.948</mean_fluorescence_per_cell>
+	<mean_fluorescence_per_cell_sd>61.2233</mean_fluorescence_per_cell_sd>
+</RECORD>
+<RECORD>
+	<genetic_part_id>apFAB42</genetic_part_id>
+	<type>promoter</type>
+	<description>Modular Promoter apFAB42</description>
+	<dna_sequence>AAAAAGAGTATTGACTTCAGGAAAATTTTTCTGCATAATTATTTCAT</dna_sequence>
+	<plasmid_id>pFAB286</plasmid_id>
+	<mean_fluorescence_per_cell>685.34</mean_fluorescence_per_cell>
+	<mean_fluorescence_per_cell_sd>77.8386</mean_fluorescence_per_cell_sd>
+</RECORD>
+<RECORD>
+	<genetic_part_id>apFAB53</genetic_part_id>
+	<type>promoter</type>
+	<description>Modular Promoter apFAB53</description>
+	<dna_sequence>AAAAAGAGTATTGACTTTTATCCCTTGCGGCGATAGATTTAACGTAT</dna_sequence>
+	<plasmid_id>pFAB297</plasmid_id>
+	<mean_fluorescence_per_cell>682.888</mean_fluorescence_per_cell>
+	<mean_fluorescence_per_cell_sd>41.4893</mean_fluorescence_per_cell_sd>
+</RECORD>
+<RECORD>
+	<genetic_part_id>apFAB85</genetic_part_id>
+	<type>promoter</type>
+	<description>Modular Promoter apFAB85</description>
+	<dna_sequence>AAAAAATTTATTTGCTTATTAATCATCCGGCTCGTATAATGTGTGGAT</dna_sequence>
+	<plasmid_id>pFAB329</plasmid_id>
+	<mean_fluorescence_per_cell>674.421</mean_fluorescence_per_cell>
+	<mean_fluorescence_per_cell_sd>23.3852</mean_fluorescence_per_cell_sd>
+</RECORD>
+<RECORD>
+	<genetic_part_id>apFAB65</genetic_part_id>
+	<type>promoter</type>
+	<description>Modular Promoter apFAB65</description>
+	<dna_sequence>TTGACATCAGGAAAATTTTTCTGTATAATGTGTGGAT</dna_sequence>
+	<plasmid_id>pFAB309</plasmid_id>
+	<mean_fluorescence_per_cell>670.065</mean_fluorescence_per_cell>
+	<mean_fluorescence_per_cell_sd>92.4175</mean_fluorescence_per_cell_sd>
+</RECORD>
+<RECORD>
+	<genetic_part_id>apFAB52</genetic_part_id>
+	<type>promoter</type>
+	<description>Modular Promoter apFAB52</description>
+	<dna_sequence>AAAAAGAGTATTGACTTTTATCCCTTGCGGCGACATAATTATTTCAT</dna_sequence>
+	<plasmid_id>pFAB296</plasmid_id>
+	<mean_fluorescence_per_cell>666.998</mean_fluorescence_per_cell>
+	<mean_fluorescence_per_cell_sd>50.9738</mean_fluorescence_per_cell_sd>
+</RECORD>
+<RECORD>
+	<genetic_part_id>apFAB67</genetic_part_id>
+	<type>promoter</type>
+	<description>Modular Promoter apFAB67</description>
+	<dna_sequence>TTGACATCAGGAAAATTTTTCTGCATAATTATTTCAT</dna_sequence>
+	<plasmid_id>pFAB311</plasmid_id>
+	<mean_fluorescence_per_cell>649.993</mean_fluorescence_per_cell>
+	<mean_fluorescence_per_cell_sd>85.4366</mean_fluorescence_per_cell_sd>
+</RECORD>
+<RECORD>
+	<genetic_part_id>apFAB32</genetic_part_id>
+	<type>promoter</type>
+	<description>Modular Promoter apFAB32</description>
+	<dna_sequence>AAAAAGAGTATTGACTTAAAGTCTAACCTATAGGCATAATTATTTCAT</dna_sequence>
+	<plasmid_id>pFAB276</plasmid_id>
+	<mean_fluorescence_per_cell>645.519</mean_fluorescence_per_cell>
+	<mean_fluorescence_per_cell_sd>66.332</mean_fluorescence_per_cell_sd>
+</RECORD>
+<RECORD>
+	<genetic_part_id>apFAB57</genetic_part_id>
+	<type>promoter</type>
+	<description>Modular Promoter apFAB57</description>
+	<dna_sequence>TTGACATAAAGTCTAACCTATAGGCATAATTATTTCAT</dna_sequence>
+	<plasmid_id>pFAB301</plasmid_id>
+	<mean_fluorescence_per_cell>637.488</mean_fluorescence_per_cell>
+	<mean_fluorescence_per_cell_sd>38.3951</mean_fluorescence_per_cell_sd>
+</RECORD>
+<RECORD>
+	<genetic_part_id>apFAB39</genetic_part_id>
+	<type>promoter</type>
+	<description>Modular Promoter apFAB39</description>
+	<dna_sequence>AAAAAGAGTATTGACTTCAGGAAAATTTTTCTGATACTTACAGCCAT</dna_sequence>
+	<plasmid_id>pFAB283</plasmid_id>
+	<mean_fluorescence_per_cell>594.378</mean_fluorescence_per_cell>
+	<mean_fluorescence_per_cell_sd>18.1461</mean_fluorescence_per_cell_sd>
+</RECORD>
+<RECORD>
+	<genetic_part_id>apFAB115</genetic_part_id>
+	<type>promoter</type>
+	<description>Modular Promoter apFAB115</description>
+	<dna_sequence>TCGACATCAGGAAAATTTTTCTGTATAATGTGTGGAT</dna_sequence>
+	<plasmid_id>pFAB359</plasmid_id>
+	<mean_fluorescence_per_cell>573.792</mean_fluorescence_per_cell>
+	<mean_fluorescence_per_cell_sd>93.4725</mean_fluorescence_per_cell_sd>
+</RECORD>
+<RECORD>
+	<genetic_part_id>apFAB29</genetic_part_id>
+	<type>promoter</type>
+	<description>Modular Promoter apFAB29</description>
+	<dna_sequence>AAAAAGAGTATTGACTTAAAGTCTAACCTATAGGATACTTACAGCCAT</dna_sequence>
+	<plasmid_id>pFAB273</plasmid_id>
+	<mean_fluorescence_per_cell>565.946</mean_fluorescence_per_cell>
+	<mean_fluorescence_per_cell_sd>112.537</mean_fluorescence_per_cell_sd>
+</RECORD>
+<RECORD>
+	<genetic_part_id>apFAB77</genetic_part_id>
+	<type>promoter</type>
+	<description>Modular Promoter apFAB77</description>
+	<dna_sequence>TTGACATTTATCCCTTGCGGCGACATAATTATTTCAT</dna_sequence>
+	<plasmid_id>pFAB321</plasmid_id>
+	<mean_fluorescence_per_cell>555.565</mean_fluorescence_per_cell>
+	<mean_fluorescence_per_cell_sd>78.8654</mean_fluorescence_per_cell_sd>
+</RECORD>
+<RECORD>
+	<genetic_part_id>apFAB36</genetic_part_id>
+	<type>promoter</type>
+	<description>Modular Promoter apFAB36</description>
+	<dna_sequence>AAAAAGAGTATTGACTATTAATCATCCGGCTCGTATAATAGATTCAT</dna_sequence>
+	<plasmid_id>pFAB280</plasmid_id>
+	<mean_fluorescence_per_cell>547.956</mean_fluorescence_per_cell>
+	<mean_fluorescence_per_cell_sd>57.8248</mean_fluorescence_per_cell_sd>
+</RECORD>
+<RECORD>
+	<genetic_part_id>apFAB44</genetic_part_id>
+	<type>promoter</type>
+	<description>Modular Promoter apFAB44</description>
+	<dna_sequence>AAAAAGAGTATTGACTTCGCATCTTTTTGTACCATACTTACAGCCAT</dna_sequence>
+	<plasmid_id>pFAB288</plasmid_id>
+	<mean_fluorescence_per_cell>540.856</mean_fluorescence_per_cell>
+	<mean_fluorescence_per_cell_sd>5.31305</mean_fluorescence_per_cell_sd>
+</RECORD>
+<RECORD>
+	<genetic_part_id>apFAB102</genetic_part_id>
+	<type>promoter</type>
+	<description>Modular Promoter apFAB102</description>
+	<dna_sequence>AAAAAATTTATTTGCTTTTTATCCCTTGCGGCGACATAATTATTTCAT</dna_sequence>
+	<plasmid_id>pFAB346</plasmid_id>
+	<mean_fluorescence_per_cell>534.826</mean_fluorescence_per_cell>
+	<mean_fluorescence_per_cell_sd>58.3999</mean_fluorescence_per_cell_sd>
+</RECORD>
+<RECORD>
+	<genetic_part_id>apFAB37</genetic_part_id>
+	<type>promoter</type>
+	<description>Modular Promoter apFAB37</description>
+	<dna_sequence>AAAAAGAGTATTGACTATTAATCATCCGGCTCGCATAATTATTTCAT</dna_sequence>
+	<plasmid_id>pFAB281</plasmid_id>
+	<mean_fluorescence_per_cell>530.604</mean_fluorescence_per_cell>
+	<mean_fluorescence_per_cell_sd>16.7214</mean_fluorescence_per_cell_sd>
+</RECORD>
+<RECORD>
+	<genetic_part_id>apFAB41</genetic_part_id>
+	<type>promoter</type>
+	<description>Modular Promoter apFAB41</description>
+	<dna_sequence>AAAAAGAGTATTGACTTCAGGAAAATTTTTCTGTATAATAGATTCAT</dna_sequence>
+	<plasmid_id>pFAB285</plasmid_id>
+	<mean_fluorescence_per_cell>523.35</mean_fluorescence_per_cell>
+	<mean_fluorescence_per_cell_sd>71.5075</mean_fluorescence_per_cell_sd>
+</RECORD>
+<RECORD>
+	<genetic_part_id>apFAB63</genetic_part_id>
+	<type>promoter</type>
+	<description>Modular Promoter apFAB63</description>
+	<dna_sequence>TTGACAATTAATCATCCGGCTCGTAGATTTAACGTAT</dna_sequence>
+	<plasmid_id>pFAB307</plasmid_id>
+	<mean_fluorescence_per_cell>518.502</mean_fluorescence_per_cell>
+	<mean_fluorescence_per_cell_sd>11.0586</mean_fluorescence_per_cell_sd>
+</RECORD>
+<RECORD>
+	<genetic_part_id>apFAB140</genetic_part_id>
+	<type>promoter</type>
+	<description>Modular Promoter apFAB140</description>
+	<dna_sequence>CACGGTGTTAGACATCAGGAAAATTTTTCTGTATAATGTGTGGAT</dna_sequence>
+	<plasmid_id>pFAB384</plasmid_id>
+	<mean_fluorescence_per_cell>508.942</mean_fluorescence_per_cell>
+	<mean_fluorescence_per_cell_sd>46.4912</mean_fluorescence_per_cell_sd>
+</RECORD>
+<RECORD>
+	<genetic_part_id>apFAB64</genetic_part_id>
+	<type>promoter</type>
+	<description>Modular Promoter apFAB64</description>
+	<dna_sequence>TTGACATCAGGAAAATTTTTCTGATACTTACAGCCAT</dna_sequence>
+	<plasmid_id>pFAB308</plasmid_id>
+	<mean_fluorescence_per_cell>508.117</mean_fluorescence_per_cell>
+	<mean_fluorescence_per_cell_sd>36.6891</mean_fluorescence_per_cell_sd>
+</RECORD>
+<RECORD>
+	<genetic_part_id>apFAB40</genetic_part_id>
+	<type>promoter</type>
+	<description>Modular Promoter apFAB40</description>
+	<dna_sequence>AAAAAGAGTATTGACTTCAGGAAAATTTTTCTGTATAATGTGTGGAT</dna_sequence>
+	<plasmid_id>pFAB284</plasmid_id>
+	<mean_fluorescence_per_cell>488.364</mean_fluorescence_per_cell>
+	<mean_fluorescence_per_cell_sd>40.987</mean_fluorescence_per_cell_sd>
+</RECORD>
+<RECORD>
+	<genetic_part_id>apFAB97</genetic_part_id>
+	<type>promoter</type>
+	<description>Modular Promoter apFAB97</description>
+	<dna_sequence>AAAAAATTTATTTGCTTTCGCATCTTTTTGTACCCATAATTATTTCAT</dna_sequence>
+	<plasmid_id>pFAB341</plasmid_id>
+	<mean_fluorescence_per_cell>477.744</mean_fluorescence_per_cell>
+	<mean_fluorescence_per_cell_sd>31.3753</mean_fluorescence_per_cell_sd>
+</RECORD>
+<RECORD>
+	<genetic_part_id>apFAB78</genetic_part_id>
+	<type>promoter</type>
+	<description>Modular Promoter apFAB78</description>
+	<dna_sequence>TTGACATTTATCCCTTGCGGCGATAGATTTAACGTAT</dna_sequence>
+	<plasmid_id>pFAB322</plasmid_id>
+	<mean_fluorescence_per_cell>476.327</mean_fluorescence_per_cell>
+	<mean_fluorescence_per_cell_sd>20.2026</mean_fluorescence_per_cell_sd>
+</RECORD>
+<RECORD>
+	<genetic_part_id>apFAB69</genetic_part_id>
+	<type>promoter</type>
+	<description>Modular Promoter apFAB69</description>
+	<dna_sequence>TTGACATCGCATCTTTTTGTACCATACTTACAGCCAT</dna_sequence>
+	<plasmid_id>pFAB313</plasmid_id>
+	<mean_fluorescence_per_cell>474.513</mean_fluorescence_per_cell>
+	<mean_fluorescence_per_cell_sd>32.4831</mean_fluorescence_per_cell_sd>
+</RECORD>
+<RECORD>
+	<genetic_part_id>apFAB103</genetic_part_id>
+	<type>promoter</type>
+	<description>Modular Promoter apFAB103</description>
+	<dna_sequence>AAAAAATTTATTTGCTTTTTATCCCTTGCGGCGATAGATTTAACGTAT</dna_sequence>
+	<plasmid_id>pFAB347</plasmid_id>
+	<mean_fluorescence_per_cell>459.253</mean_fluorescence_per_cell>
+	<mean_fluorescence_per_cell_sd>28.6731</mean_fluorescence_per_cell_sd>
+</RECORD>
+<RECORD>
+	<genetic_part_id>apFAB73</genetic_part_id>
+	<type>promoter</type>
+	<description>Modular Promoter apFAB73</description>
+	<dna_sequence>TTGACATCGCATCTTTTTGTACCTAGATTTAACGTAT</dna_sequence>
+	<plasmid_id>pFAB317</plasmid_id>
+	<mean_fluorescence_per_cell>456.758</mean_fluorescence_per_cell>
+	<mean_fluorescence_per_cell_sd>6.20656</mean_fluorescence_per_cell_sd>
+</RECORD>
+<RECORD>
+	<genetic_part_id>apFAB66</genetic_part_id>
+	<type>promoter</type>
+	<description>Modular Promoter apFAB66</description>
+	<dna_sequence>TTGACATCAGGAAAATTTTTCTGTATAATAGATTCAT</dna_sequence>
+	<plasmid_id>pFAB310</plasmid_id>
+	<mean_fluorescence_per_cell>439.276</mean_fluorescence_per_cell>
+	<mean_fluorescence_per_cell_sd>20.1315</mean_fluorescence_per_cell_sd>
+</RECORD>
+<RECORD>
+	<genetic_part_id>apFAB126</genetic_part_id>
+	<type>promoter</type>
+	<description>Modular Promoter apFAB126</description>
+	<dna_sequence>TCGACATTTATCCCTTGCGGCGATATAATAGATTCAT</dna_sequence>
+	<plasmid_id>pFAB370</plasmid_id>
+	<mean_fluorescence_per_cell>433.829</mean_fluorescence_per_cell>
+	<mean_fluorescence_per_cell_sd>27.7643</mean_fluorescence_per_cell_sd>
+</RECORD>
+<RECORD>
+	<genetic_part_id>apFAB95</genetic_part_id>
+	<type>promoter</type>
+	<description>Modular Promoter apFAB95</description>
+	<dna_sequence>AAAAAATTTATTTGCTTTCGCATCTTTTTGTACCTATAATGTGTGGAT</dna_sequence>
+	<plasmid_id>pFAB339</plasmid_id>
+	<mean_fluorescence_per_cell>425.407</mean_fluorescence_per_cell>
+	<mean_fluorescence_per_cell_sd>27.0834</mean_fluorescence_per_cell_sd>
+</RECORD>
+<RECORD>
+	<genetic_part_id>apFAB151</genetic_part_id>
+	<type>promoter</type>
+	<description>Modular Promoter apFAB151</description>
+	<dna_sequence>CACGGTGTTAGACATTTATCCCTTGCGGCGATATAATAGATTCAT</dna_sequence>
+	<plasmid_id>pFAB395</plasmid_id>
+	<mean_fluorescence_per_cell>422.838</mean_fluorescence_per_cell>
+	<mean_fluorescence_per_cell_sd>32.9965</mean_fluorescence_per_cell_sd>
+</RECORD>
+<RECORD>
+	<genetic_part_id>apFAB48</genetic_part_id>
+	<type>promoter</type>
+	<description>Modular Promoter apFAB48</description>
+	<dna_sequence>AAAAAGAGTATTGACTTCGCATCTTTTTGTACCTAGATTTAACGTAT</dna_sequence>
+	<plasmid_id>pFAB292</plasmid_id>
+	<mean_fluorescence_per_cell>411.861</mean_fluorescence_per_cell>
+	<mean_fluorescence_per_cell_sd>9.17926</mean_fluorescence_per_cell_sd>
+</RECORD>
+<RECORD>
+	<genetic_part_id>apFAB82</genetic_part_id>
+	<type>promoter</type>
+	<description>Modular Promoter apFAB82</description>
+	<dna_sequence>AAAAAATTTATTTGCTTTAAAGTCTAACCTATAGGCATAATTATTTCAT</dna_sequence>
+	<plasmid_id>pFAB326</plasmid_id>
+	<mean_fluorescence_per_cell>389.529</mean_fluorescence_per_cell>
+	<mean_fluorescence_per_cell_sd>10.2845</mean_fluorescence_per_cell_sd>
+</RECORD>
+<RECORD>
+	<genetic_part_id>apFAB141</genetic_part_id>
+	<type>promoter</type>
+	<description>Modular Promoter apFAB141</description>
+	<dna_sequence>CACGGTGTTAGACATCAGGAAAATTTTTCTGTATAATAGATTCAT</dna_sequence>
+	<plasmid_id>pFAB385</plasmid_id>
+	<mean_fluorescence_per_cell>376.932</mean_fluorescence_per_cell>
+	<mean_fluorescence_per_cell_sd>289.259</mean_fluorescence_per_cell_sd>
+</RECORD>
+<RECORD>
+	<genetic_part_id>apFAB150</genetic_part_id>
+	<type>promoter</type>
+	<description>Modular Promoter apFAB150</description>
+	<dna_sequence>CACGGTGTTAGACATTTATCCCTTGCGGCGATATAATGTGTGGAT</dna_sequence>
+	<plasmid_id>pFAB394</plasmid_id>
+	<mean_fluorescence_per_cell>366.498</mean_fluorescence_per_cell>
+	<mean_fluorescence_per_cell_sd>5.95286</mean_fluorescence_per_cell_sd>
+</RECORD>
+<RECORD>
+	<genetic_part_id>apFAB125</genetic_part_id>
+	<type>promoter</type>
+	<description>Modular Promoter apFAB125</description>
+	<dna_sequence>TCGACATTTATCCCTTGCGGCGATATAATGTGTGGAT</dna_sequence>
+	<plasmid_id>pFAB369</plasmid_id>
+	<mean_fluorescence_per_cell>363.199</mean_fluorescence_per_cell>
+	<mean_fluorescence_per_cell_sd>25.1866</mean_fluorescence_per_cell_sd>
+</RECORD>
+<RECORD>
+	<genetic_part_id>apFAB33</genetic_part_id>
+	<type>promoter</type>
+	<description>Modular Promoter apFAB33</description>
+	<dna_sequence>AAAAAGAGTATTGACTTAAAGTCTAACCTATAGGTAGATTTAACGTAT</dna_sequence>
+	<plasmid_id>pFAB277</plasmid_id>
+	<mean_fluorescence_per_cell>340.476</mean_fluorescence_per_cell>
+	<mean_fluorescence_per_cell_sd>16.5136</mean_fluorescence_per_cell_sd>
+</RECORD>
+<RECORD>
+	<genetic_part_id>apFAB121</genetic_part_id>
+	<type>promoter</type>
+	<description>Modular Promoter apFAB121</description>
+	<dna_sequence>TCGACATCGCATCTTTTTGTACCTATAATAGATTCAT</dna_sequence>
+	<plasmid_id>pFAB365</plasmid_id>
+	<mean_fluorescence_per_cell>328.946</mean_fluorescence_per_cell>
+	<mean_fluorescence_per_cell_sd>3.37915</mean_fluorescence_per_cell_sd>
+</RECORD>
+<RECORD>
+	<genetic_part_id>apFAB111</genetic_part_id>
+	<type>promoter</type>
+	<description>Modular Promoter apFAB111</description>
+	<dna_sequence>TCGACAATTAATCATCCGGCTCGTATAATAGATTCAT</dna_sequence>
+	<plasmid_id>pFAB355</plasmid_id>
+	<mean_fluorescence_per_cell>327.288</mean_fluorescence_per_cell>
+	<mean_fluorescence_per_cell_sd>2.32106</mean_fluorescence_per_cell_sd>
+</RECORD>
+<RECORD>
+	<genetic_part_id>apFAB58</genetic_part_id>
+	<type>promoter</type>
+	<description>Modular Promoter apFAB58</description>
+	<dna_sequence>TTGACATAAAGTCTAACCTATAGGTAGATTTAACGTAT</dna_sequence>
+	<plasmid_id>pFAB302</plasmid_id>
+	<mean_fluorescence_per_cell>287.687</mean_fluorescence_per_cell>
+	<mean_fluorescence_per_cell_sd>12.1048</mean_fluorescence_per_cell_sd>
+</RECORD>
+<RECORD>
+	<genetic_part_id>apFAB94</genetic_part_id>
+	<type>promoter</type>
+	<description>Modular Promoter apFAB94</description>
+	<dna_sequence>AAAAAATTTATTTGCTTTCGCATCTTTTTGTACCATACTTACAGCCAT</dna_sequence>
+	<plasmid_id>pFAB338</plasmid_id>
+	<mean_fluorescence_per_cell>279.605</mean_fluorescence_per_cell>
+	<mean_fluorescence_per_cell_sd>22.2484</mean_fluorescence_per_cell_sd>
+</RECORD>
+<RECORD>
+	<genetic_part_id>apFAB145</genetic_part_id>
+	<type>promoter</type>
+	<description>Modular Promoter apFAB145</description>
+	<dna_sequence>CACGGTGTTAGACATCGCATCTTTTTGTACCTATAATGTGTGGAT</dna_sequence>
+	<plasmid_id>pFAB389</plasmid_id>
+	<mean_fluorescence_per_cell>271.14</mean_fluorescence_per_cell>
+	<mean_fluorescence_per_cell_sd>16.5159</mean_fluorescence_per_cell_sd>
+</RECORD>
+<RECORD>
+	<genetic_part_id>apFAB118</genetic_part_id>
+	<type>promoter</type>
+	<description>Modular Promoter apFAB118</description>
+	<dna_sequence>TCGACATCAGGAAAATTTTTCTGTAGATTTAACGTAT</dna_sequence>
+	<plasmid_id>pFAB362</plasmid_id>
+	<mean_fluorescence_per_cell>267.819</mean_fluorescence_per_cell>
+	<mean_fluorescence_per_cell_sd>38.777</mean_fluorescence_per_cell_sd>
+</RECORD>
+<RECORD>
+	<genetic_part_id>apFAB106</genetic_part_id>
+	<type>promoter</type>
+	<description>Modular Promoter apFAB106</description>
+	<dna_sequence>TCGACATAAAGTCTAACCTATAGGTATAATAGATTCAT</dna_sequence>
+	<plasmid_id>pFAB350</plasmid_id>
+	<mean_fluorescence_per_cell>256.824</mean_fluorescence_per_cell>
+	<mean_fluorescence_per_cell_sd>14.8007</mean_fluorescence_per_cell_sd>
+</RECORD>
+<RECORD>
+	<genetic_part_id>apFAB110</genetic_part_id>
+	<type>promoter</type>
+	<description>Modular Promoter apFAB110</description>
+	<dna_sequence>TCGACAATTAATCATCCGGCTCGTATAATGTGTGGAT</dna_sequence>
+	<plasmid_id>pFAB354</plasmid_id>
+	<mean_fluorescence_per_cell>254.676</mean_fluorescence_per_cell>
+	<mean_fluorescence_per_cell_sd>4.81444</mean_fluorescence_per_cell_sd>
+</RECORD>
+<RECORD>
+	<genetic_part_id>apFAB105</genetic_part_id>
+	<type>promoter</type>
+	<description>Modular Promoter apFAB105</description>
+	<dna_sequence>TCGACATAAAGTCTAACCTATAGGTATAATGTGTGGAT</dna_sequence>
+	<plasmid_id>pFAB349</plasmid_id>
+	<mean_fluorescence_per_cell>243.758</mean_fluorescence_per_cell>
+	<mean_fluorescence_per_cell_sd>8.74994</mean_fluorescence_per_cell_sd>
+</RECORD>
+<RECORD>
+	<genetic_part_id>apFAB38</genetic_part_id>
+	<type>promoter</type>
+	<description>Modular Promoter apFAB38</description>
+	<dna_sequence>AAAAAGAGTATTGACTATTAATCATCCGGCTCGTAGATTTAACGTAT</dna_sequence>
+	<plasmid_id>pFAB282</plasmid_id>
+	<mean_fluorescence_per_cell>239.875</mean_fluorescence_per_cell>
+	<mean_fluorescence_per_cell_sd>2.90704</mean_fluorescence_per_cell_sd>
+</RECORD>
+<RECORD>
+	<genetic_part_id>apFAB89</genetic_part_id>
+	<type>promoter</type>
+	<description>Modular Promoter apFAB89</description>
+	<dna_sequence>AAAAAATTTATTTGCTTTCAGGAAAATTTTTCTGATACTTACAGCCAT</dna_sequence>
+	<plasmid_id>pFAB333</plasmid_id>
+	<mean_fluorescence_per_cell>223.766</mean_fluorescence_per_cell>
+	<mean_fluorescence_per_cell_sd>17.3397</mean_fluorescence_per_cell_sd>
+</RECORD>
+<RECORD>
+	<genetic_part_id>apFAB142</genetic_part_id>
+	<type>promoter</type>
+	<description>Modular Promoter apFAB142</description>
+	<dna_sequence>CACGGTGTTAGACATCAGGAAAATTTTTCTGCATAATTATTTCAT</dna_sequence>
+	<plasmid_id>pFAB386</plasmid_id>
+	<mean_fluorescence_per_cell>214.923</mean_fluorescence_per_cell>
+	<mean_fluorescence_per_cell_sd>20.3255</mean_fluorescence_per_cell_sd>
+</RECORD>
+<RECORD>
+	<genetic_part_id>apFAB130</genetic_part_id>
+	<type>promoter</type>
+	<description>Modular Promoter apFAB130</description>
+	<dna_sequence>CACGGTGTTAGACATAAAGTCTAACCTATAGGTATAATGTGTGGAT</dna_sequence>
+	<plasmid_id>pFAB374</plasmid_id>
+	<mean_fluorescence_per_cell>182.202</mean_fluorescence_per_cell>
+	<mean_fluorescence_per_cell_sd>10.753</mean_fluorescence_per_cell_sd>
+</RECORD>
+<RECORD>
+	<genetic_part_id>apFAB131</genetic_part_id>
+	<type>promoter</type>
+	<description>Modular Promoter apFAB131</description>
+	<dna_sequence>CACGGTGTTAGACATAAAGTCTAACCTATAGGTATAATAGATTCAT</dna_sequence>
+	<plasmid_id>pFAB375</plasmid_id>
+	<mean_fluorescence_per_cell>167.803</mean_fluorescence_per_cell>
+	<mean_fluorescence_per_cell_sd>13.0995</mean_fluorescence_per_cell_sd>
+</RECORD>
+<RECORD>
+	<genetic_part_id>apFAB143</genetic_part_id>
+	<type>promoter</type>
+	<description>Modular Promoter apFAB143</description>
+	<dna_sequence>CACGGTGTTAGACATCAGGAAAATTTTTCTGTAGATTTAACGTAT</dna_sequence>
+	<plasmid_id>pFAB387</plasmid_id>
+	<mean_fluorescence_per_cell>157.015</mean_fluorescence_per_cell>
+	<mean_fluorescence_per_cell_sd>18.3122</mean_fluorescence_per_cell_sd>
+</RECORD>
+<RECORD>
+	<genetic_part_id>apFAB87</genetic_part_id>
+	<type>promoter</type>
+	<description>Modular Promoter apFAB87</description>
+	<dna_sequence>AAAAAATTTATTTGCTTATTAATCATCCGGCTCGCATAATTATTTCAT</dna_sequence>
+	<plasmid_id>pFAB331</plasmid_id>
+	<mean_fluorescence_per_cell>145.215</mean_fluorescence_per_cell>
+	<mean_fluorescence_per_cell_sd>3.83688</mean_fluorescence_per_cell_sd>
+</RECORD>
+<RECORD>
+	<genetic_part_id>apFAB104</genetic_part_id>
+	<type>promoter</type>
+	<description>Modular Promoter apFAB104</description>
+	<dna_sequence>TCGACATAAAGTCTAACCTATAGGATACTTACAGCCAT</dna_sequence>
+	<plasmid_id>pFAB348</plasmid_id>
+	<mean_fluorescence_per_cell>126.832</mean_fluorescence_per_cell>
+	<mean_fluorescence_per_cell_sd>2.51808</mean_fluorescence_per_cell_sd>
+</RECORD>
+<RECORD>
+	<genetic_part_id>apFAB98</genetic_part_id>
+	<type>promoter</type>
+	<description>Modular Promoter apFAB98</description>
+	<dna_sequence>AAAAAATTTATTTGCTTTCGCATCTTTTTGTACCTAGATTTAACGTAT</dna_sequence>
+	<plasmid_id>pFAB342</plasmid_id>
+	<mean_fluorescence_per_cell>120.521</mean_fluorescence_per_cell>
+	<mean_fluorescence_per_cell_sd>6.23427</mean_fluorescence_per_cell_sd>
+</RECORD>
+<RECORD>
+	<genetic_part_id>apFAB51</genetic_part_id>
+	<type>promoter</type>
+	<description>Modular Promoter apFAB51</description>
+	<dna_sequence>AAAAAGAGTATTGACTTTTATCCCTTGCGGCGATATAATAGATTCAT</dna_sequence>
+	<plasmid_id>pFAB295</plasmid_id>
+	<mean_fluorescence_per_cell>103.187</mean_fluorescence_per_cell>
+	<mean_fluorescence_per_cell_sd>18.7569</mean_fluorescence_per_cell_sd>
+</RECORD>
+<RECORD>
+	<genetic_part_id>apFAB49</genetic_part_id>
+	<type>promoter</type>
+	<description>Modular Promoter apFAB49</description>
+	<dna_sequence>AAAAAGAGTATTGACTTTTATCCCTTGCGGCGAATACTTACAGCCAT</dna_sequence>
+	<plasmid_id>pFAB293</plasmid_id>
+	<mean_fluorescence_per_cell>93.9231</mean_fluorescence_per_cell>
+	<mean_fluorescence_per_cell_sd>1.05861</mean_fluorescence_per_cell_sd>
+</RECORD>
+<RECORD>
+	<genetic_part_id>apFAB120</genetic_part_id>
+	<type>promoter</type>
+	<description>Modular Promoter apFAB120</description>
+	<dna_sequence>TCGACATCGCATCTTTTTGTACCTATAATGTGTGGAT</dna_sequence>
+	<plasmid_id>pFAB364</plasmid_id>
+	<mean_fluorescence_per_cell>81.7515</mean_fluorescence_per_cell>
+	<mean_fluorescence_per_cell_sd>7.86381</mean_fluorescence_per_cell_sd>
+</RECORD>
+<RECORD>
+	<genetic_part_id>apFAB83</genetic_part_id>
+	<type>promoter</type>
+	<description>Modular Promoter apFAB83</description>
+	<dna_sequence>AAAAAATTTATTTGCTTTAAAGTCTAACCTATAGGTAGATTTAACGTAT</dna_sequence>
+	<plasmid_id>pFAB327</plasmid_id>
+	<mean_fluorescence_per_cell>79.3039</mean_fluorescence_per_cell>
+	<mean_fluorescence_per_cell_sd>3.74855</mean_fluorescence_per_cell_sd>
+</RECORD>
+<RECORD>
+	<genetic_part_id>apFAB117</genetic_part_id>
+	<type>promoter</type>
+	<description>Modular Promoter apFAB117</description>
+	<dna_sequence>TCGACATCAGGAAAATTTTTCTGCATAATTATTTCAT</dna_sequence>
+	<plasmid_id>pFAB361</plasmid_id>
+	<mean_fluorescence_per_cell>62.9585</mean_fluorescence_per_cell>
+	<mean_fluorescence_per_cell_sd>109.851</mean_fluorescence_per_cell_sd>
+</RECORD>
+<RECORD>
+	<genetic_part_id>apFAB129</genetic_part_id>
+	<type>promoter</type>
+	<description>Modular Promoter apFAB129</description>
+	<dna_sequence>CACGGTGTTAGACATAAAGTCTAACCTATAGGATACTTACAGCCAT</dna_sequence>
+	<plasmid_id>pFAB373</plasmid_id>
+	<mean_fluorescence_per_cell>60.7537</mean_fluorescence_per_cell>
+	<mean_fluorescence_per_cell_sd>4.25673</mean_fluorescence_per_cell_sd>
+</RECORD>
+<RECORD>
+	<genetic_part_id>apFAB146</genetic_part_id>
+	<type>promoter</type>
+	<description>Modular Promoter apFAB146</description>
+	<dna_sequence>CACGGTGTTAGACATCGCATCTTTTTGTACCTATAATAGATTCAT</dna_sequence>
+	<plasmid_id>pFAB390</plasmid_id>
+	<mean_fluorescence_per_cell>58.9582</mean_fluorescence_per_cell>
+	<mean_fluorescence_per_cell_sd>3.52039</mean_fluorescence_per_cell_sd>
+</RECORD>
+<RECORD>
+	<genetic_part_id>apFAB59</genetic_part_id>
+	<type>promoter</type>
+	<description>Modular Promoter apFAB59</description>
+	<dna_sequence>TTGACAATTAATCATCCGGCTCGATACTTACAGCCAT</dna_sequence>
+	<plasmid_id>pFAB303</plasmid_id>
+	<mean_fluorescence_per_cell>58.498</mean_fluorescence_per_cell>
+	<mean_fluorescence_per_cell_sd>5.22205</mean_fluorescence_per_cell_sd>
+</RECORD>
+<RECORD>
+	<genetic_part_id>apFAB127</genetic_part_id>
+	<type>promoter</type>
+	<description>Modular Promoter apFAB127</description>
+	<dna_sequence>TCGACATTTATCCCTTGCGGCGACATAATTATTTCAT</dna_sequence>
+	<plasmid_id>pFAB371</plasmid_id>
+	<mean_fluorescence_per_cell>48.3838</mean_fluorescence_per_cell>
+	<mean_fluorescence_per_cell_sd>3.37455</mean_fluorescence_per_cell_sd>
+</RECORD>
+<RECORD>
+	<genetic_part_id>apFAB88</genetic_part_id>
+	<type>promoter</type>
+	<description>Modular Promoter apFAB88</description>
+	<dna_sequence>AAAAAATTTATTTGCTTATTAATCATCCGGCTCGTAGATTTAACGTAT</dna_sequence>
+	<plasmid_id>pFAB332</plasmid_id>
+	<mean_fluorescence_per_cell>48.354</mean_fluorescence_per_cell>
+	<mean_fluorescence_per_cell_sd>0.881459</mean_fluorescence_per_cell_sd>
+</RECORD>
+<RECORD>
+	<genetic_part_id>apFAB86</genetic_part_id>
+	<type>promoter</type>
+	<description>Modular Promoter apFAB86</description>
+	<dna_sequence>AAAAAATTTATTTGCTTATTAATCATCCGGCTCGTATAATAGATTCAT</dna_sequence>
+	<plasmid_id>pFAB330</plasmid_id>
+	<mean_fluorescence_per_cell>44.6204</mean_fluorescence_per_cell>
+	<mean_fluorescence_per_cell_sd>0.40498</mean_fluorescence_per_cell_sd>
+</RECORD>
+<RECORD>
+	<genetic_part_id>apFAB74</genetic_part_id>
+	<type>promoter</type>
+	<description>Modular Promoter apFAB74</description>
+	<dna_sequence>TTGACATTTATCCCTTGCGGCGAATACTTACAGCCAT</dna_sequence>
+	<plasmid_id>pFAB318</plasmid_id>
+	<mean_fluorescence_per_cell>44.6094</mean_fluorescence_per_cell>
+	<mean_fluorescence_per_cell_sd>1.57401</mean_fluorescence_per_cell_sd>
+</RECORD>
+<RECORD>
+	<genetic_part_id>apFAB152</genetic_part_id>
+	<type>promoter</type>
+	<description>Modular Promoter apFAB152</description>
+	<dna_sequence>CACGGTGTTAGACATTTATCCCTTGCGGCGACATAATTATTTCAT</dna_sequence>
+	<plasmid_id>pFAB396</plasmid_id>
+	<mean_fluorescence_per_cell>40.7219</mean_fluorescence_per_cell>
+	<mean_fluorescence_per_cell_sd>4.45065</mean_fluorescence_per_cell_sd>
+</RECORD>
+<RECORD>
+	<genetic_part_id>apFAB122</genetic_part_id>
+	<type>promoter</type>
+	<description>Modular Promoter apFAB122</description>
+	<dna_sequence>TCGACATCGCATCTTTTTGTACCCATAATTATTTCAT</dna_sequence>
+	<plasmid_id>pFAB366</plasmid_id>
+	<mean_fluorescence_per_cell>36.8209</mean_fluorescence_per_cell>
+	<mean_fluorescence_per_cell_sd>1.72199</mean_fluorescence_per_cell_sd>
+</RECORD>
+<RECORD>
+	<genetic_part_id>apFAB128</genetic_part_id>
+	<type>promoter</type>
+	<description>Modular Promoter apFAB128</description>
+	<dna_sequence>TCGACATTTATCCCTTGCGGCGATAGATTTAACGTAT</dna_sequence>
+	<plasmid_id>pFAB372</plasmid_id>
+	<mean_fluorescence_per_cell>26.6541</mean_fluorescence_per_cell>
+	<mean_fluorescence_per_cell_sd>1.6968</mean_fluorescence_per_cell_sd>
+</RECORD>
+<RECORD>
+	<genetic_part_id>apFAB99</genetic_part_id>
+	<type>promoter</type>
+	<description>Modular Promoter apFAB99</description>
+	<dna_sequence>AAAAAATTTATTTGCTTTTTATCCCTTGCGGCGAATACTTACAGCCAT</dna_sequence>
+	<plasmid_id>pFAB343</plasmid_id>
+	<mean_fluorescence_per_cell>26.5471</mean_fluorescence_per_cell>
+	<mean_fluorescence_per_cell_sd>0.820824</mean_fluorescence_per_cell_sd>
+</RECORD>
+<RECORD>
+	<genetic_part_id>apFAB119</genetic_part_id>
+	<type>promoter</type>
+	<description>Modular Promoter apFAB119</description>
+	<dna_sequence>TCGACATCGCATCTTTTTGTACCATACTTACAGCCAT</dna_sequence>
+	<plasmid_id>pFAB363</plasmid_id>
+	<mean_fluorescence_per_cell>20.866</mean_fluorescence_per_cell>
+	<mean_fluorescence_per_cell_sd>3.82816</mean_fluorescence_per_cell_sd>
+</RECORD>
+<RECORD>
+	<genetic_part_id>apFAB112</genetic_part_id>
+	<type>promoter</type>
+	<description>Modular Promoter apFAB112</description>
+	<dna_sequence>TCGACAATTAATCATCCGGCTCGCATAATTATTTCAT</dna_sequence>
+	<plasmid_id>pFAB356</plasmid_id>
+	<mean_fluorescence_per_cell>17.3114</mean_fluorescence_per_cell>
+	<mean_fluorescence_per_cell_sd>1.10803</mean_fluorescence_per_cell_sd>
+</RECORD>
+<RECORD>
+	<genetic_part_id>apFAB34</genetic_part_id>
+	<type>promoter</type>
+	<description>Modular Promoter apFAB34</description>
+	<dna_sequence>AAAAAGAGTATTGACTATTAATCATCCGGCTCGATACTTACAGCCAT</dna_sequence>
+	<plasmid_id>pFAB278</plasmid_id>
+	<mean_fluorescence_per_cell>14.6339</mean_fluorescence_per_cell>
+	<mean_fluorescence_per_cell_sd>1.56605</mean_fluorescence_per_cell_sd>
+</RECORD>
+<RECORD>
+	<genetic_part_id>apFAB147</genetic_part_id>
+	<type>promoter</type>
+	<description>Modular Promoter apFAB147</description>
+	<dna_sequence>CACGGTGTTAGACATCGCATCTTTTTGTACCCATAATTATTTCAT</dna_sequence>
+	<plasmid_id>pFAB391</plasmid_id>
+	<mean_fluorescence_per_cell>13.3236</mean_fluorescence_per_cell>
+	<mean_fluorescence_per_cell_sd>0.664927</mean_fluorescence_per_cell_sd>
+</RECORD>
+<RECORD>
+	<genetic_part_id>apFAB144</genetic_part_id>
+	<type>promoter</type>
+	<description>Modular Promoter apFAB144</description>
+	<dna_sequence>CACGGTGTTAGACATCGCATCTTTTTGTACCATACTTACAGCCAT</dna_sequence>
+	<plasmid_id>pFAB388</plasmid_id>
+	<mean_fluorescence_per_cell>13.0792</mean_fluorescence_per_cell>
+	<mean_fluorescence_per_cell_sd>2.14512</mean_fluorescence_per_cell_sd>
+</RECORD>
+<RECORD>
+	<genetic_part_id>apFAB35</genetic_part_id>
+	<type>promoter</type>
+	<description>Modular Promoter apFAB35</description>
+	<dna_sequence>AAAAAGAGTATTGACTATTAATCATCCGGCTCGTATAATGTGTGGAT</dna_sequence>
+	<plasmid_id>pFAB279</plasmid_id>
+	<mean_fluorescence_per_cell>12.6234</mean_fluorescence_per_cell>
+	<mean_fluorescence_per_cell_sd>0.0290251</mean_fluorescence_per_cell_sd>
+</RECORD>
+<RECORD>
+	<genetic_part_id>apFAB107</genetic_part_id>
+	<type>promoter</type>
+	<description>Modular Promoter apFAB107</description>
+	<dna_sequence>TCGACATAAAGTCTAACCTATAGGCATAATTATTTCAT</dna_sequence>
+	<plasmid_id>pFAB351</plasmid_id>
+	<mean_fluorescence_per_cell>11.4242</mean_fluorescence_per_cell>
+	<mean_fluorescence_per_cell_sd>0.312048</mean_fluorescence_per_cell_sd>
+</RECORD>
+<RECORD>
+	<genetic_part_id>apFAB123</genetic_part_id>
+	<type>promoter</type>
+	<description>Modular Promoter apFAB123</description>
+	<dna_sequence>TCGACATCGCATCTTTTTGTACCTAGATTTAACGTAT</dna_sequence>
+	<plasmid_id>pFAB367</plasmid_id>
+	<mean_fluorescence_per_cell>11.2076</mean_fluorescence_per_cell>
+	<mean_fluorescence_per_cell_sd>1.11914</mean_fluorescence_per_cell_sd>
+</RECORD>
+<RECORD>
+	<genetic_part_id>apFAB137</genetic_part_id>
+	<type>promoter</type>
+	<description>Modular Promoter apFAB137</description>
+	<dna_sequence>CACGGTGTTAGACAATTAATCATCCGGCTCGCATAATTATTTCAT</dna_sequence>
+	<plasmid_id>pFAB381</plasmid_id>
+	<mean_fluorescence_per_cell>7.09512</mean_fluorescence_per_cell>
+	<mean_fluorescence_per_cell_sd>0.573995</mean_fluorescence_per_cell_sd>
+</RECORD>
+<RECORD>
+	<genetic_part_id>apFAB113</genetic_part_id>
+	<type>promoter</type>
+	<description>Modular Promoter apFAB113</description>
+	<dna_sequence>TCGACAATTAATCATCCGGCTCGTAGATTTAACGTAT</dna_sequence>
+	<plasmid_id>pFAB357</plasmid_id>
+	<mean_fluorescence_per_cell>5.32229</mean_fluorescence_per_cell>
+	<mean_fluorescence_per_cell_sd>1.24203</mean_fluorescence_per_cell_sd>
+</RECORD>
+<RECORD>
+	<genetic_part_id>apFAB84</genetic_part_id>
+	<type>promoter</type>
+	<description>Modular Promoter apFAB84</description>
+	<dna_sequence>AAAAAATTTATTTGCTTATTAATCATCCGGCTCGATACTTACAGCCAT</dna_sequence>
+	<plasmid_id>pFAB328</plasmid_id>
+	<mean_fluorescence_per_cell>4.73181</mean_fluorescence_per_cell>
+	<mean_fluorescence_per_cell_sd>0.0192004</mean_fluorescence_per_cell_sd>
+</RECORD>
+<RECORD>
+	<genetic_part_id>apFAB148</genetic_part_id>
+	<type>promoter</type>
+	<description>Modular Promoter apFAB148</description>
+	<dna_sequence>CACGGTGTTAGACATCGCATCTTTTTGTACCTAGATTTAACGTAT</dna_sequence>
+	<plasmid_id>pFAB392</plasmid_id>
+	<mean_fluorescence_per_cell>4.01421</mean_fluorescence_per_cell>
+	<mean_fluorescence_per_cell_sd>0.561078</mean_fluorescence_per_cell_sd>
+</RECORD>
+<RECORD>
+	<genetic_part_id>apFAB108</genetic_part_id>
+	<type>promoter</type>
+	<description>Modular Promoter apFAB108</description>
+	<dna_sequence>TCGACATAAAGTCTAACCTATAGGTAGATTTAACGTAT</dna_sequence>
+	<plasmid_id>pFAB352</plasmid_id>
+	<mean_fluorescence_per_cell>3.64128</mean_fluorescence_per_cell>
+	<mean_fluorescence_per_cell_sd>-0.1131</mean_fluorescence_per_cell_sd>
+</RECORD>
+<RECORD>
+	<genetic_part_id>apFAB114</genetic_part_id>
+	<type>promoter</type>
+	<description>Modular Promoter apFAB114</description>
+	<dna_sequence>TCGACATCAGGAAAATTTTTCTGATACTTACAGCCAT</dna_sequence>
+	<plasmid_id>pFAB358</plasmid_id>
+	<mean_fluorescence_per_cell>3.35398</mean_fluorescence_per_cell>
+	<mean_fluorescence_per_cell_sd>0.130291</mean_fluorescence_per_cell_sd>
+</RECORD>
+<RECORD>
+	<genetic_part_id>apFAB136</genetic_part_id>
+	<type>promoter</type>
+	<description>Modular Promoter apFAB136</description>
+	<dna_sequence>CACGGTGTTAGACAATTAATCATCCGGCTCGTATAATAGATTCAT</dna_sequence>
+	<plasmid_id>pFAB380</plasmid_id>
+	<mean_fluorescence_per_cell>3.19915</mean_fluorescence_per_cell>
+	<mean_fluorescence_per_cell_sd>0.788859</mean_fluorescence_per_cell_sd>
+</RECORD>
+<RECORD>
+	<genetic_part_id>apFAB124</genetic_part_id>
+	<type>promoter</type>
+	<description>Modular Promoter apFAB124</description>
+	<dna_sequence>TCGACATTTATCCCTTGCGGCGAATACTTACAGCCAT</dna_sequence>
+	<plasmid_id>pFAB368</plasmid_id>
+	<mean_fluorescence_per_cell>2.64681</mean_fluorescence_per_cell>
+	<mean_fluorescence_per_cell_sd>0.110791</mean_fluorescence_per_cell_sd>
+</RECORD>
+<RECORD>
+	<genetic_part_id>apFAB149</genetic_part_id>
+	<type>promoter</type>
+	<description>Modular Promoter apFAB149</description>
+	<dna_sequence>CACGGTGTTAGACATTTATCCCTTGCGGCGAATACTTACAGCCAT</dna_sequence>
+	<plasmid_id>pFAB393</plasmid_id>
+	<mean_fluorescence_per_cell>2.52982</mean_fluorescence_per_cell>
+	<mean_fluorescence_per_cell_sd>0.0376797</mean_fluorescence_per_cell_sd>
+</RECORD>
+<RECORD>
+	<genetic_part_id>apFAB134</genetic_part_id>
+	<type>promoter</type>
+	<description>Modular Promoter apFAB134</description>
+	<dna_sequence>CACGGTGTTAGACAATTAATCATCCGGCTCGATACTTACAGCCAT</dna_sequence>
+	<plasmid_id>pFAB378</plasmid_id>
+	<mean_fluorescence_per_cell>2.52663</mean_fluorescence_per_cell>
+	<mean_fluorescence_per_cell_sd>0.0720345</mean_fluorescence_per_cell_sd>
+</RECORD>
+<RECORD>
+	<genetic_part_id>apFAB138</genetic_part_id>
+	<type>promoter</type>
+	<description>Modular Promoter apFAB138</description>
+	<dna_sequence>CACGGTGTTAGACAATTAATCATCCGGCTCGTAGATTTAACGTAT</dna_sequence>
+	<plasmid_id>pFAB382</plasmid_id>
+	<mean_fluorescence_per_cell>1.64153</mean_fluorescence_per_cell>
+	<mean_fluorescence_per_cell_sd>0.00288215</mean_fluorescence_per_cell_sd>
+</RECORD>
+<RECORD>
+	<genetic_part_id>apFAB43</genetic_part_id>
+	<type>promoter</type>
+	<description>Modular Promoter apFAB43</description>
+	<dna_sequence>AAAAAGAGTATTGACTTCAGGAAAATTTTTCTGTAGATTTAACGTAT</dna_sequence>
+	<plasmid_id>pFAB287</plasmid_id>
+	<mean_fluorescence_per_cell>1.0947</mean_fluorescence_per_cell>
+	<mean_fluorescence_per_cell_sd>0.322157</mean_fluorescence_per_cell_sd>
+</RECORD>
+<RECORD>
+	<genetic_part_id>apFAB133</genetic_part_id>
+	<type>promoter</type>
+	<description>Modular Promoter apFAB133</description>
+	<dna_sequence>CACGGTGTTAGACATAAAGTCTAACCTATAGGTAGATTTAACGTAT</dna_sequence>
+	<plasmid_id>pFAB377</plasmid_id>
+	<mean_fluorescence_per_cell>0.84608</mean_fluorescence_per_cell>
+	<mean_fluorescence_per_cell_sd>1.95721</mean_fluorescence_per_cell_sd>
+</RECORD>
+<RECORD>
+	<genetic_part_id>apFAB60</genetic_part_id>
+	<type>promoter</type>
+	<description>Modular Promoter apFAB60</description>
+	<dna_sequence>TTGACAATTAATCATCCGGCTCGTATAATGTGTGGAT</dna_sequence>
+	<plasmid_id>pFAB304</plasmid_id>
+	<mean_fluorescence_per_cell>0.781383</mean_fluorescence_per_cell>
+	<mean_fluorescence_per_cell_sd>0.109416</mean_fluorescence_per_cell_sd>
+</RECORD>
+<RECORD>
+	<genetic_part_id>apFAB139</genetic_part_id>
+	<type>promoter</type>
+	<description>Modular Promoter apFAB139</description>
+	<dna_sequence>CACGGTGTTAGACATCAGGAAAATTTTTCTGATACTTACAGCCAT</dna_sequence>
+	<plasmid_id>pFAB383</plasmid_id>
+	<mean_fluorescence_per_cell>0.681873</mean_fluorescence_per_cell>
+	<mean_fluorescence_per_cell_sd>0.0314062</mean_fluorescence_per_cell_sd>
+</RECORD>
+<RECORD>
+	<genetic_part_id>apFAB91</genetic_part_id>
+	<type>promoter</type>
+	<description>Modular Promoter apFAB91</description>
+	<dna_sequence>AAAAAATTTATTTGCTTTCAGGAAAATTTTTCTGTATAATAGATTCAT</dna_sequence>
+	<plasmid_id>pFAB335</plasmid_id>
+	<mean_fluorescence_per_cell>0.42395</mean_fluorescence_per_cell>
+	<mean_fluorescence_per_cell_sd>-0.0838249</mean_fluorescence_per_cell_sd>
+</RECORD>
+<RECORD>
+	<genetic_part_id>apFAB90</genetic_part_id>
+	<type>promoter</type>
+	<description>Modular Promoter apFAB90</description>
+	<dna_sequence>AAAAAATTTATTTGCTTTCAGGAAAATTTTTCTGTATAATGTGTGGAT</dna_sequence>
+	<plasmid_id>pFAB334</plasmid_id>
+	<mean_fluorescence_per_cell>0.378777</mean_fluorescence_per_cell>
+	<mean_fluorescence_per_cell_sd>-0.130684</mean_fluorescence_per_cell_sd>
+</RECORD>
+</RECORDS>
