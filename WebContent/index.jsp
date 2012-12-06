@@ -1,7 +1,7 @@
 <%@ page language="java" contentType="text/html; charset=ISO-8859-1"
     pageEncoding="ISO-8859-1"%>
 
-<%@ page import="sbol.script.ScriptWeaver" %>
+<%@ page import="sbol.script.ScriptInvoker" %>
 <%@ page import="java.util.List" %>
     
 <!DOCTYPE html PUBLIC "-//W3C//DTD HTML 4.01 Transitional//EN" "http://www.w3.org/TR/html4/loose.dtd">
@@ -14,15 +14,15 @@
 
 
 <%
-String sException = (String)null;
+	String sException = (String)null;
 String sScript = (String)null;
 boolean bValid = false;
-List<String> lstModuleNames = (List<String>)null;
+String sbolResult = (String)null;
 if (null != (sScript=request.getParameter("script"))) {
 	// todo... import the scriptweaver.jar file and execute the script
 	String sPath = request.getSession().getServletContext().getRealPath(".");
 	try {
-		lstModuleNames = ScriptWeaver.executeScript(sScript, sPath);
+		sbolResult = ScriptInvoker.invokeXmlRpc(sScript);
 		bValid = true;
 	} catch(Exception e) {
 		sException = e.getMessage();
@@ -46,12 +46,8 @@ Here we can put some documentation/examples...<br><br>
 </form>
 
 <%
-if(null == sException && bValid) {
-	for(String s:lstModuleNames) {
-%>
-Download the <%=s %> module SBOL file <a href="./downloads/sbol/<%=s %>.sbol">here</a><br/>
-<%
-	}
+if(null == sException && null != sbolResult) {
+	out.println("SBOL Result<br/>"+sbolResult);
 } else if (null != sException){
 	out.println(sException+"<br/>");
 }

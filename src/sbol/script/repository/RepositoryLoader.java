@@ -1,38 +1,72 @@
 package sbol.script.repository;
 
-import java.io.IOException;
+import java.io.File;
+import java.util.ArrayList;
+import java.util.List;
 
 import javax.xml.parsers.DocumentBuilder;
 import javax.xml.parsers.DocumentBuilderFactory;
-import javax.xml.parsers.ParserConfigurationException;
 import javax.xml.xpath.XPath;
 import javax.xml.xpath.XPathConstants;
 import javax.xml.xpath.XPathExpression;
 import javax.xml.xpath.XPathExpressionException;
 import javax.xml.xpath.XPathFactory;
 
-import sbol.script.dom.*;
-
 import org.w3c.dom.Document;
 import org.w3c.dom.Node;
 import org.w3c.dom.NodeList;
-import org.xml.sax.SAXException;
 
 import sbol.script.dom.Repository;
-import sbol.script.parser.SymbolTables;
+import sbol.script.dom.URLRepository;
+import sbol.script.dom.XMLFileRepository;
 
 public class RepositoryLoader {
 	
 	// this class loads all repositories from the config/registries.xml file
 	// and puts them into the hmRegistries HashMap of the SymbolTables 
-	public static void load(SymbolTables objSymbolTables) 
-			throws ParserConfigurationException, SAXException, 
-			       IOException, XPathExpressionException {
-		
+	public static List<Repository> load() 
+			throws Exception {
+
+	    ArrayList<Repository> lstRepositories = new ArrayList<Repository>();
+
+	    // URL Repository
+	    /**
+		<repository>
+			<id>partsregistry.org</id>
+			<type>URLRepository</type>
+			<description>The MIT's part registry</description>
+			<location>http://partsregistry.org/xml/part.</location>
+		</repository>
+	    **/
+	    URLRepository registry = new URLRepository("partsregistry.org");
+	    registry.setType("URLRepository");
+	    registry.setDescription("The MIT's part registry");
+	    registry.setLocation("http://partsregistry.org/xml/part.");
+	    lstRepositories.add(registry);
+	    
+	    
+	    // XML File Repository
+	    /**
+	    <repository>
+			<id>biofab.org</id>
+			<type>XMLFileRepository</type>
+			<description>The BioFab's part registry</description>
+			<location>./repository/biofab_modular_promoter_library.xml</location>
+		</repository>
+	    **/
+	    XMLFileRepository biofab = new XMLFileRepository("biofab.org");
+	    biofab.setType("XMLFileRepository");
+	    biofab.setDescription("The BioFab's part registry");
+	    biofab.setLocation("./ScriptWeaver/repository/biofab_modular_promoter_library.xml");
+	    lstRepositories.add(biofab);
+	    
+		/**
+		String currentDir = new File(".").getAbsolutePath();
+
 		DocumentBuilderFactory dbFactory = DocumentBuilderFactory.newInstance();
 		dbFactory.setNamespaceAware(true); // never forget this!
 		DocumentBuilder db=dbFactory.newDocumentBuilder();
-		Document doc = db.parse("./config/repositories.xml");
+		Document doc = db.parse(currentDir+"/ScriptWeaver/config/repositories.xml");
 		
 	    XPathFactory factory = XPathFactory.newInstance();
 	    XPath xpath = factory.newXPath();
@@ -40,6 +74,9 @@ public class RepositoryLoader {
 	    XPathExpression expr = xpath.compile("//repository/*");
 	    Object result = expr.evaluate(doc, XPathConstants.NODESET);
 	    NodeList nodes = (NodeList) result;
+	    
+	    ArrayList<Repository> lstRepositories = new ArrayList<Repository>();
+	    
 	    Repository objRepository = null;
 	    String sRepoName = null;
 	    for (int i = 0; i < nodes.getLength(); i++) {
@@ -61,13 +98,22 @@ public class RepositoryLoader {
 	    		}	    		
 	    		objRepository.setType(node.getTextContent());
 	    		
-	    		objSymbolTables.put(objRepository);
+	    		lstRepositories.add(objRepository);
 		    	sRepoName = null;
 	    	} else if(node.getLocalName().equals("description")) {
 	    		objRepository.setDescription(node.getTextContent());
 	    	} else if(node.getLocalName().equals("location")) {
-	    		objRepository.setLocation(node.getTextContent());
+	    		if(null != objRepository) {
+	    			if(objRepository instanceof URLRepository) {
+	    				((URLRepository)objRepository).setLocation(node.getTextContent());
+	    			} else if(objRepository instanceof XMLFileRepository) {
+	    				((XMLFileRepository)objRepository).setLocation(currentDir+"/ScriptWeaver/repository/");
+	    			}
+	    		}
 	    	} 
 	    }
+	    **/
+		
+	    return lstRepositories;
 	}
 }

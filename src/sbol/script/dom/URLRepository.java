@@ -28,8 +28,7 @@ public class URLRepository
 	
 	public URLRepository(String sName) {
 		super(sName);
-		//this.url=url;
-		
+
 		DocumentBuilderFactory dbFactory = DocumentBuilderFactory.newInstance();
 		dbFactory.setNamespaceAware(true); // never forget this!
 		try {
@@ -37,6 +36,10 @@ public class URLRepository
 		} catch (ParserConfigurationException e) {
 			e.printStackTrace();
 		}				
+	}
+	
+	public void setLocation(String location) { 
+		this.location = location;
 	}
 	
 	public Part loadPart(String partName) 

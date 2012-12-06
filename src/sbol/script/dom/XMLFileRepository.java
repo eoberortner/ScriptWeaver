@@ -1,15 +1,18 @@
 package sbol.script.dom;
 
 //http://www.ibm.com/developerworks/library/x-javaxpathapi/index.html
-import java.io.IOException;
+import javax.xml.parsers.DocumentBuilder;
+import javax.xml.parsers.DocumentBuilderFactory;
+import javax.xml.xpath.XPath;
+import javax.xml.xpath.XPathConstants;
+import javax.xml.xpath.XPathExpression;
+import javax.xml.xpath.XPathExpressionException;
+import javax.xml.xpath.XPathFactory;
 
+import org.w3c.dom.Document;
+import org.w3c.dom.Node;
+import org.w3c.dom.NodeList;
 //import org.scriptweaver.script.dom.*;
-import org.w3c.dom.*;
-import org.xml.sax.SAXException;
-
-
-import javax.xml.parsers.*;
-import javax.xml.xpath.*;
 
 public class XMLFileRepository 
 	extends Repository {
@@ -21,13 +24,22 @@ public class XMLFileRepository
 		super(sName);		
 	}
 	
-	public void setLocation(String sXMLFile) 
-			throws ParserConfigurationException, SAXException, 
-				IOException, XPathExpressionException {
+	public void setLocation(String sXMLFile) {
 		DocumentBuilderFactory dbFactory = DocumentBuilderFactory.newInstance();
 		dbFactory.setNamespaceAware(true); // never forget this!
-		DocumentBuilder db=dbFactory.newDocumentBuilder();
-		this.doc = db.parse(sXMLFile);
+		DocumentBuilder db;
+		try {
+			db = dbFactory.newDocumentBuilder();
+		} catch (Exception e) {
+			e.printStackTrace();
+			return;
+		}
+		
+		try {
+			this.doc = db.parse(sXMLFile);
+		} catch (Exception e) {
+			e.printStackTrace();
+		}
 		
 	    XPathFactory factory = XPathFactory.newInstance();
 	    this.xpath = factory.newXPath();

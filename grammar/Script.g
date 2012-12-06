@@ -25,23 +25,38 @@ package sbol.script.parser;
 }
 
 @members {
-private ComponentSearcher cs=new ComponentSearcher();
-private SymbolTables objSymbolTables = new SymbolTables();
+private ComponentSearcher cs;
+private SymbolTables objSymbolTables;
 
-public SymbolTables getSymbolTables() {
-    return objSymbolTables;
+public void init() 
+        throws Exception {
+    this.cs = new ComponentSearcher();
+    this.objSymbolTables = new SymbolTables();
+
+    List<Repository> lst = RepositoryLoader.load();
+    for(Repository reg:lst) {
+        this.objSymbolTables.put(reg);
+    }
 }
 
+public List<Module> getModules() {
+    if(null != objSymbolTables) {
+        return objSymbolTables.getModules();
+    }
+    return (List<Module>)null;
+}
+
+public void cleanUp() {
+    if(null != objSymbolTables) {
+        objSymbolTables.cleanUp();
+        objSymbolTables = null;
+    }
+    
+    this.cs = null;
+}
 }
 
 prog	
-@init {
-try {
-    RepositoryLoader.load(objSymbolTables);
-} catch(Exception e) {
-
-}
-}
 	:	(statement)+
 	;
 	
@@ -98,17 +113,16 @@ listOfIDs[Component objComponent]
 	:	idToken=ID {
 if(objComponent instanceof Module) {
     Module m = (Module)objComponent;
-    try {
-        Component c = cs.search(objSymbolTables, $idToken.text);
-        if(null!=c) {
-            m.addComponent(c);
-        }
-    } catch (Exception e) {
-        e.printStackTrace();
+    Component c = cs.search(objSymbolTables, $idToken.text);
+    if(null!=c) {
+        m.addComponent(c);
     }
 }	
 	}	(',' listOfIDs[objComponent])* 
 	;
+	catch[Exception e] {
+e.printStackTrace();	
+	}
 	
 express	:	'express'
 	;

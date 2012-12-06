@@ -1,4 +1,4 @@
-// $ANTLR 3.4 /Users/ernstl/PostDoc/BU/SBOL/Script/coding/ScriptWeaver/grammar/Script.g 2012-12-05 14:11:48
+// $ANTLR 3.4 /Users/ernstl/PostDoc/BU/SBOL/Script/coding/ScriptWeaver/grammar/Script.g 2012-12-05 18:04:23
 
 package sbol.script.parser;
 
@@ -472,8 +472,8 @@ public class ScriptLexer extends Lexer {
         try {
             int _type = ID;
             int _channel = DEFAULT_TOKEN_CHANNEL;
-            // /Users/ernstl/PostDoc/BU/SBOL/Script/coding/ScriptWeaver/grammar/Script.g:134:5: ( ( 'a' .. 'z' | 'A' .. 'Z' | '_' ) ( 'a' .. 'z' | 'A' .. 'Z' | '0' .. '9' | '_' )* )
-            // /Users/ernstl/PostDoc/BU/SBOL/Script/coding/ScriptWeaver/grammar/Script.g:134:7: ( 'a' .. 'z' | 'A' .. 'Z' | '_' ) ( 'a' .. 'z' | 'A' .. 'Z' | '0' .. '9' | '_' )*
+            // /Users/ernstl/PostDoc/BU/SBOL/Script/coding/ScriptWeaver/grammar/Script.g:148:5: ( ( 'a' .. 'z' | 'A' .. 'Z' | '_' ) ( 'a' .. 'z' | 'A' .. 'Z' | '0' .. '9' | '_' )* )
+            // /Users/ernstl/PostDoc/BU/SBOL/Script/coding/ScriptWeaver/grammar/Script.g:148:7: ( 'a' .. 'z' | 'A' .. 'Z' | '_' ) ( 'a' .. 'z' | 'A' .. 'Z' | '0' .. '9' | '_' )*
             {
             if ( (input.LA(1) >= 'A' && input.LA(1) <= 'Z')||input.LA(1)=='_'||(input.LA(1) >= 'a' && input.LA(1) <= 'z') ) {
                 input.consume();
@@ -485,7 +485,7 @@ public class ScriptLexer extends Lexer {
             }
 
 
-            // /Users/ernstl/PostDoc/BU/SBOL/Script/coding/ScriptWeaver/grammar/Script.g:134:31: ( 'a' .. 'z' | 'A' .. 'Z' | '0' .. '9' | '_' )*
+            // /Users/ernstl/PostDoc/BU/SBOL/Script/coding/ScriptWeaver/grammar/Script.g:148:31: ( 'a' .. 'z' | 'A' .. 'Z' | '0' .. '9' | '_' )*
             loop1:
             do {
                 int alt1=2;
@@ -535,10 +535,10 @@ public class ScriptLexer extends Lexer {
         try {
             int _type = INT;
             int _channel = DEFAULT_TOKEN_CHANNEL;
-            // /Users/ernstl/PostDoc/BU/SBOL/Script/coding/ScriptWeaver/grammar/Script.g:133:5: ( ( '0' .. '9' )+ )
-            // /Users/ernstl/PostDoc/BU/SBOL/Script/coding/ScriptWeaver/grammar/Script.g:133:7: ( '0' .. '9' )+
+            // /Users/ernstl/PostDoc/BU/SBOL/Script/coding/ScriptWeaver/grammar/Script.g:147:5: ( ( '0' .. '9' )+ )
+            // /Users/ernstl/PostDoc/BU/SBOL/Script/coding/ScriptWeaver/grammar/Script.g:147:7: ( '0' .. '9' )+
             {
-            // /Users/ernstl/PostDoc/BU/SBOL/Script/coding/ScriptWeaver/grammar/Script.g:133:7: ( '0' .. '9' )+
+            // /Users/ernstl/PostDoc/BU/SBOL/Script/coding/ScriptWeaver/grammar/Script.g:147:7: ( '0' .. '9' )+
             int cnt2=0;
             loop2:
             do {
@@ -593,14 +593,14 @@ public class ScriptLexer extends Lexer {
         try {
             int _type = FLOAT;
             int _channel = DEFAULT_TOKEN_CHANNEL;
-            // /Users/ernstl/PostDoc/BU/SBOL/Script/coding/ScriptWeaver/grammar/Script.g:137:5: ( ( '0' .. '9' )+ '.' ( '0' .. '9' )* ( EXPONENT )? | '.' ( '0' .. '9' )+ ( EXPONENT )? | ( '0' .. '9' )+ EXPONENT )
+            // /Users/ernstl/PostDoc/BU/SBOL/Script/coding/ScriptWeaver/grammar/Script.g:151:5: ( ( '0' .. '9' )+ '.' ( '0' .. '9' )* ( EXPONENT )? | '.' ( '0' .. '9' )+ ( EXPONENT )? | ( '0' .. '9' )+ EXPONENT )
             int alt9=3;
             alt9 = dfa9.predict(input);
             switch (alt9) {
                 case 1 :
-                    // /Users/ernstl/PostDoc/BU/SBOL/Script/coding/ScriptWeaver/grammar/Script.g:137:9: ( '0' .. '9' )+ '.' ( '0' .. '9' )* ( EXPONENT )?
+                    // /Users/ernstl/PostDoc/BU/SBOL/Script/coding/ScriptWeaver/grammar/Script.g:151:9: ( '0' .. '9' )+ '.' ( '0' .. '9' )* ( EXPONENT )?
                     {
-                    // /Users/ernstl/PostDoc/BU/SBOL/Script/coding/ScriptWeaver/grammar/Script.g:137:9: ( '0' .. '9' )+
+                    // /Users/ernstl/PostDoc/BU/SBOL/Script/coding/ScriptWeaver/grammar/Script.g:151:9: ( '0' .. '9' )+
                     int cnt3=0;
                     loop3:
                     do {
@@ -641,7 +641,7 @@ public class ScriptLexer extends Lexer {
 
                     match('.'); 
 
-                    // /Users/ernstl/PostDoc/BU/SBOL/Script/coding/ScriptWeaver/grammar/Script.g:137:25: ( '0' .. '9' )*
+                    // /Users/ernstl/PostDoc/BU/SBOL/Script/coding/ScriptWeaver/grammar/Script.g:151:25: ( '0' .. '9' )*
                     loop4:
                     do {
                         int alt4=2;
@@ -675,7 +675,7 @@ public class ScriptLexer extends Lexer {
                     } while (true);
 
 
-                    // /Users/ernstl/PostDoc/BU/SBOL/Script/coding/ScriptWeaver/grammar/Script.g:137:37: ( EXPONENT )?
+                    // /Users/ernstl/PostDoc/BU/SBOL/Script/coding/ScriptWeaver/grammar/Script.g:151:37: ( EXPONENT )?
                     int alt5=2;
                     int LA5_0 = input.LA(1);
 
@@ -684,7 +684,7 @@ public class ScriptLexer extends Lexer {
                     }
                     switch (alt5) {
                         case 1 :
-                            // /Users/ernstl/PostDoc/BU/SBOL/Script/coding/ScriptWeaver/grammar/Script.g:137:37: EXPONENT
+                            // /Users/ernstl/PostDoc/BU/SBOL/Script/coding/ScriptWeaver/grammar/Script.g:151:37: EXPONENT
                             {
                             mEXPONENT(); 
 
@@ -698,11 +698,11 @@ public class ScriptLexer extends Lexer {
                     }
                     break;
                 case 2 :
-                    // /Users/ernstl/PostDoc/BU/SBOL/Script/coding/ScriptWeaver/grammar/Script.g:138:9: '.' ( '0' .. '9' )+ ( EXPONENT )?
+                    // /Users/ernstl/PostDoc/BU/SBOL/Script/coding/ScriptWeaver/grammar/Script.g:152:9: '.' ( '0' .. '9' )+ ( EXPONENT )?
                     {
                     match('.'); 
 
-                    // /Users/ernstl/PostDoc/BU/SBOL/Script/coding/ScriptWeaver/grammar/Script.g:138:13: ( '0' .. '9' )+
+                    // /Users/ernstl/PostDoc/BU/SBOL/Script/coding/ScriptWeaver/grammar/Script.g:152:13: ( '0' .. '9' )+
                     int cnt6=0;
                     loop6:
                     do {
@@ -741,7 +741,7 @@ public class ScriptLexer extends Lexer {
                     } while (true);
 
 
-                    // /Users/ernstl/PostDoc/BU/SBOL/Script/coding/ScriptWeaver/grammar/Script.g:138:25: ( EXPONENT )?
+                    // /Users/ernstl/PostDoc/BU/SBOL/Script/coding/ScriptWeaver/grammar/Script.g:152:25: ( EXPONENT )?
                     int alt7=2;
                     int LA7_0 = input.LA(1);
 
@@ -750,7 +750,7 @@ public class ScriptLexer extends Lexer {
                     }
                     switch (alt7) {
                         case 1 :
-                            // /Users/ernstl/PostDoc/BU/SBOL/Script/coding/ScriptWeaver/grammar/Script.g:138:25: EXPONENT
+                            // /Users/ernstl/PostDoc/BU/SBOL/Script/coding/ScriptWeaver/grammar/Script.g:152:25: EXPONENT
                             {
                             mEXPONENT(); 
 
@@ -764,9 +764,9 @@ public class ScriptLexer extends Lexer {
                     }
                     break;
                 case 3 :
-                    // /Users/ernstl/PostDoc/BU/SBOL/Script/coding/ScriptWeaver/grammar/Script.g:139:9: ( '0' .. '9' )+ EXPONENT
+                    // /Users/ernstl/PostDoc/BU/SBOL/Script/coding/ScriptWeaver/grammar/Script.g:153:9: ( '0' .. '9' )+ EXPONENT
                     {
-                    // /Users/ernstl/PostDoc/BU/SBOL/Script/coding/ScriptWeaver/grammar/Script.g:139:9: ( '0' .. '9' )+
+                    // /Users/ernstl/PostDoc/BU/SBOL/Script/coding/ScriptWeaver/grammar/Script.g:153:9: ( '0' .. '9' )+
                     int cnt8=0;
                     loop8:
                     do {
@@ -826,7 +826,7 @@ public class ScriptLexer extends Lexer {
         try {
             int _type = COMMENT;
             int _channel = DEFAULT_TOKEN_CHANNEL;
-            // /Users/ernstl/PostDoc/BU/SBOL/Script/coding/ScriptWeaver/grammar/Script.g:143:5: ( '//' (~ ( '\\n' | '\\r' ) )* ( '\\r' )? '\\n' | '/*' ( options {greedy=false; } : . )* '*/' )
+            // /Users/ernstl/PostDoc/BU/SBOL/Script/coding/ScriptWeaver/grammar/Script.g:157:5: ( '//' (~ ( '\\n' | '\\r' ) )* ( '\\r' )? '\\n' | '/*' ( options {greedy=false; } : . )* '*/' )
             int alt13=2;
             int LA13_0 = input.LA(1);
 
@@ -856,13 +856,13 @@ public class ScriptLexer extends Lexer {
             }
             switch (alt13) {
                 case 1 :
-                    // /Users/ernstl/PostDoc/BU/SBOL/Script/coding/ScriptWeaver/grammar/Script.g:143:9: '//' (~ ( '\\n' | '\\r' ) )* ( '\\r' )? '\\n'
+                    // /Users/ernstl/PostDoc/BU/SBOL/Script/coding/ScriptWeaver/grammar/Script.g:157:9: '//' (~ ( '\\n' | '\\r' ) )* ( '\\r' )? '\\n'
                     {
                     match("//"); 
 
 
 
-                    // /Users/ernstl/PostDoc/BU/SBOL/Script/coding/ScriptWeaver/grammar/Script.g:143:14: (~ ( '\\n' | '\\r' ) )*
+                    // /Users/ernstl/PostDoc/BU/SBOL/Script/coding/ScriptWeaver/grammar/Script.g:157:14: (~ ( '\\n' | '\\r' ) )*
                     loop10:
                     do {
                         int alt10=2;
@@ -896,7 +896,7 @@ public class ScriptLexer extends Lexer {
                     } while (true);
 
 
-                    // /Users/ernstl/PostDoc/BU/SBOL/Script/coding/ScriptWeaver/grammar/Script.g:143:28: ( '\\r' )?
+                    // /Users/ernstl/PostDoc/BU/SBOL/Script/coding/ScriptWeaver/grammar/Script.g:157:28: ( '\\r' )?
                     int alt11=2;
                     int LA11_0 = input.LA(1);
 
@@ -905,7 +905,7 @@ public class ScriptLexer extends Lexer {
                     }
                     switch (alt11) {
                         case 1 :
-                            // /Users/ernstl/PostDoc/BU/SBOL/Script/coding/ScriptWeaver/grammar/Script.g:143:28: '\\r'
+                            // /Users/ernstl/PostDoc/BU/SBOL/Script/coding/ScriptWeaver/grammar/Script.g:157:28: '\\r'
                             {
                             match('\r'); 
 
@@ -922,13 +922,13 @@ public class ScriptLexer extends Lexer {
                     }
                     break;
                 case 2 :
-                    // /Users/ernstl/PostDoc/BU/SBOL/Script/coding/ScriptWeaver/grammar/Script.g:144:9: '/*' ( options {greedy=false; } : . )* '*/'
+                    // /Users/ernstl/PostDoc/BU/SBOL/Script/coding/ScriptWeaver/grammar/Script.g:158:9: '/*' ( options {greedy=false; } : . )* '*/'
                     {
                     match("/*"); 
 
 
 
-                    // /Users/ernstl/PostDoc/BU/SBOL/Script/coding/ScriptWeaver/grammar/Script.g:144:14: ( options {greedy=false; } : . )*
+                    // /Users/ernstl/PostDoc/BU/SBOL/Script/coding/ScriptWeaver/grammar/Script.g:158:14: ( options {greedy=false; } : . )*
                     loop12:
                     do {
                         int alt12=2;
@@ -953,7 +953,7 @@ public class ScriptLexer extends Lexer {
 
                         switch (alt12) {
                     	case 1 :
-                    	    // /Users/ernstl/PostDoc/BU/SBOL/Script/coding/ScriptWeaver/grammar/Script.g:144:42: .
+                    	    // /Users/ernstl/PostDoc/BU/SBOL/Script/coding/ScriptWeaver/grammar/Script.g:158:42: .
                     	    {
                     	    matchAny(); 
 
@@ -990,8 +990,8 @@ public class ScriptLexer extends Lexer {
         try {
             int _type = WS;
             int _channel = DEFAULT_TOKEN_CHANNEL;
-            // /Users/ernstl/PostDoc/BU/SBOL/Script/coding/ScriptWeaver/grammar/Script.g:147:5: ( ( ' ' | '\\t' | '\\r' | '\\n' ) )
-            // /Users/ernstl/PostDoc/BU/SBOL/Script/coding/ScriptWeaver/grammar/Script.g:147:9: ( ' ' | '\\t' | '\\r' | '\\n' )
+            // /Users/ernstl/PostDoc/BU/SBOL/Script/coding/ScriptWeaver/grammar/Script.g:161:5: ( ( ' ' | '\\t' | '\\r' | '\\n' ) )
+            // /Users/ernstl/PostDoc/BU/SBOL/Script/coding/ScriptWeaver/grammar/Script.g:161:9: ( ' ' | '\\t' | '\\r' | '\\n' )
             {
             if ( (input.LA(1) >= '\t' && input.LA(1) <= '\n')||input.LA(1)=='\r'||input.LA(1)==' ' ) {
                 input.consume();
@@ -1021,12 +1021,12 @@ public class ScriptLexer extends Lexer {
         try {
             int _type = STRING;
             int _channel = DEFAULT_TOKEN_CHANNEL;
-            // /Users/ernstl/PostDoc/BU/SBOL/Script/coding/ScriptWeaver/grammar/Script.g:155:5: ( '\"' ( ESC_SEQ |~ ( '\\\\' | '\"' ) )* '\"' )
-            // /Users/ernstl/PostDoc/BU/SBOL/Script/coding/ScriptWeaver/grammar/Script.g:155:8: '\"' ( ESC_SEQ |~ ( '\\\\' | '\"' ) )* '\"'
+            // /Users/ernstl/PostDoc/BU/SBOL/Script/coding/ScriptWeaver/grammar/Script.g:169:5: ( '\"' ( ESC_SEQ |~ ( '\\\\' | '\"' ) )* '\"' )
+            // /Users/ernstl/PostDoc/BU/SBOL/Script/coding/ScriptWeaver/grammar/Script.g:169:8: '\"' ( ESC_SEQ |~ ( '\\\\' | '\"' ) )* '\"'
             {
             match('\"'); 
 
-            // /Users/ernstl/PostDoc/BU/SBOL/Script/coding/ScriptWeaver/grammar/Script.g:155:12: ( ESC_SEQ |~ ( '\\\\' | '\"' ) )*
+            // /Users/ernstl/PostDoc/BU/SBOL/Script/coding/ScriptWeaver/grammar/Script.g:169:12: ( ESC_SEQ |~ ( '\\\\' | '\"' ) )*
             loop14:
             do {
                 int alt14=3;
@@ -1042,7 +1042,7 @@ public class ScriptLexer extends Lexer {
 
                 switch (alt14) {
             	case 1 :
-            	    // /Users/ernstl/PostDoc/BU/SBOL/Script/coding/ScriptWeaver/grammar/Script.g:155:14: ESC_SEQ
+            	    // /Users/ernstl/PostDoc/BU/SBOL/Script/coding/ScriptWeaver/grammar/Script.g:169:14: ESC_SEQ
             	    {
             	    mESC_SEQ(); 
 
@@ -1050,7 +1050,7 @@ public class ScriptLexer extends Lexer {
             	    }
             	    break;
             	case 2 :
-            	    // /Users/ernstl/PostDoc/BU/SBOL/Script/coding/ScriptWeaver/grammar/Script.g:155:24: ~ ( '\\\\' | '\"' )
+            	    // /Users/ernstl/PostDoc/BU/SBOL/Script/coding/ScriptWeaver/grammar/Script.g:169:24: ~ ( '\\\\' | '\"' )
             	    {
             	    if ( (input.LA(1) >= '\u0000' && input.LA(1) <= '!')||(input.LA(1) >= '#' && input.LA(1) <= '[')||(input.LA(1) >= ']' && input.LA(1) <= '\uFFFF') ) {
             	        input.consume();
@@ -1089,12 +1089,12 @@ public class ScriptLexer extends Lexer {
         try {
             int _type = CHAR;
             int _channel = DEFAULT_TOKEN_CHANNEL;
-            // /Users/ernstl/PostDoc/BU/SBOL/Script/coding/ScriptWeaver/grammar/Script.g:158:5: ( '\\'' ( ESC_SEQ |~ ( '\\'' | '\\\\' ) ) '\\'' )
-            // /Users/ernstl/PostDoc/BU/SBOL/Script/coding/ScriptWeaver/grammar/Script.g:158:8: '\\'' ( ESC_SEQ |~ ( '\\'' | '\\\\' ) ) '\\''
+            // /Users/ernstl/PostDoc/BU/SBOL/Script/coding/ScriptWeaver/grammar/Script.g:172:5: ( '\\'' ( ESC_SEQ |~ ( '\\'' | '\\\\' ) ) '\\'' )
+            // /Users/ernstl/PostDoc/BU/SBOL/Script/coding/ScriptWeaver/grammar/Script.g:172:8: '\\'' ( ESC_SEQ |~ ( '\\'' | '\\\\' ) ) '\\''
             {
             match('\''); 
 
-            // /Users/ernstl/PostDoc/BU/SBOL/Script/coding/ScriptWeaver/grammar/Script.g:158:13: ( ESC_SEQ |~ ( '\\'' | '\\\\' ) )
+            // /Users/ernstl/PostDoc/BU/SBOL/Script/coding/ScriptWeaver/grammar/Script.g:172:13: ( ESC_SEQ |~ ( '\\'' | '\\\\' ) )
             int alt15=2;
             int LA15_0 = input.LA(1);
 
@@ -1113,7 +1113,7 @@ public class ScriptLexer extends Lexer {
             }
             switch (alt15) {
                 case 1 :
-                    // /Users/ernstl/PostDoc/BU/SBOL/Script/coding/ScriptWeaver/grammar/Script.g:158:15: ESC_SEQ
+                    // /Users/ernstl/PostDoc/BU/SBOL/Script/coding/ScriptWeaver/grammar/Script.g:172:15: ESC_SEQ
                     {
                     mESC_SEQ(); 
 
@@ -1121,7 +1121,7 @@ public class ScriptLexer extends Lexer {
                     }
                     break;
                 case 2 :
-                    // /Users/ernstl/PostDoc/BU/SBOL/Script/coding/ScriptWeaver/grammar/Script.g:158:25: ~ ( '\\'' | '\\\\' )
+                    // /Users/ernstl/PostDoc/BU/SBOL/Script/coding/ScriptWeaver/grammar/Script.g:172:25: ~ ( '\\'' | '\\\\' )
                     {
                     if ( (input.LA(1) >= '\u0000' && input.LA(1) <= '&')||(input.LA(1) >= '(' && input.LA(1) <= '[')||(input.LA(1) >= ']' && input.LA(1) <= '\uFFFF') ) {
                         input.consume();
@@ -1155,8 +1155,8 @@ public class ScriptLexer extends Lexer {
     // $ANTLR start "EXPONENT"
     public final void mEXPONENT() throws RecognitionException {
         try {
-            // /Users/ernstl/PostDoc/BU/SBOL/Script/coding/ScriptWeaver/grammar/Script.g:163:10: ( ( 'e' | 'E' ) ( '+' | '-' )? ( '0' .. '9' )+ )
-            // /Users/ernstl/PostDoc/BU/SBOL/Script/coding/ScriptWeaver/grammar/Script.g:163:12: ( 'e' | 'E' ) ( '+' | '-' )? ( '0' .. '9' )+
+            // /Users/ernstl/PostDoc/BU/SBOL/Script/coding/ScriptWeaver/grammar/Script.g:177:10: ( ( 'e' | 'E' ) ( '+' | '-' )? ( '0' .. '9' )+ )
+            // /Users/ernstl/PostDoc/BU/SBOL/Script/coding/ScriptWeaver/grammar/Script.g:177:12: ( 'e' | 'E' ) ( '+' | '-' )? ( '0' .. '9' )+
             {
             if ( input.LA(1)=='E'||input.LA(1)=='e' ) {
                 input.consume();
@@ -1168,7 +1168,7 @@ public class ScriptLexer extends Lexer {
             }
 
 
-            // /Users/ernstl/PostDoc/BU/SBOL/Script/coding/ScriptWeaver/grammar/Script.g:163:22: ( '+' | '-' )?
+            // /Users/ernstl/PostDoc/BU/SBOL/Script/coding/ScriptWeaver/grammar/Script.g:177:22: ( '+' | '-' )?
             int alt16=2;
             int LA16_0 = input.LA(1);
 
@@ -1195,7 +1195,7 @@ public class ScriptLexer extends Lexer {
             }
 
 
-            // /Users/ernstl/PostDoc/BU/SBOL/Script/coding/ScriptWeaver/grammar/Script.g:163:33: ( '0' .. '9' )+
+            // /Users/ernstl/PostDoc/BU/SBOL/Script/coding/ScriptWeaver/grammar/Script.g:177:33: ( '0' .. '9' )+
             int cnt17=0;
             loop17:
             do {
@@ -1247,7 +1247,7 @@ public class ScriptLexer extends Lexer {
     // $ANTLR start "HEX_DIGIT"
     public final void mHEX_DIGIT() throws RecognitionException {
         try {
-            // /Users/ernstl/PostDoc/BU/SBOL/Script/coding/ScriptWeaver/grammar/Script.g:166:11: ( ( '0' .. '9' | 'a' .. 'f' | 'A' .. 'F' ) )
+            // /Users/ernstl/PostDoc/BU/SBOL/Script/coding/ScriptWeaver/grammar/Script.g:180:11: ( ( '0' .. '9' | 'a' .. 'f' | 'A' .. 'F' ) )
             // /Users/ernstl/PostDoc/BU/SBOL/Script/coding/ScriptWeaver/grammar/Script.g:
             {
             if ( (input.LA(1) >= '0' && input.LA(1) <= '9')||(input.LA(1) >= 'A' && input.LA(1) <= 'F')||(input.LA(1) >= 'a' && input.LA(1) <= 'f') ) {
@@ -1273,7 +1273,7 @@ public class ScriptLexer extends Lexer {
     // $ANTLR start "ESC_SEQ"
     public final void mESC_SEQ() throws RecognitionException {
         try {
-            // /Users/ernstl/PostDoc/BU/SBOL/Script/coding/ScriptWeaver/grammar/Script.g:170:5: ( '\\\\' ( 'b' | 't' | 'n' | 'f' | 'r' | '\\\"' | '\\'' | '\\\\' ) | UNICODE_ESC | OCTAL_ESC )
+            // /Users/ernstl/PostDoc/BU/SBOL/Script/coding/ScriptWeaver/grammar/Script.g:184:5: ( '\\\\' ( 'b' | 't' | 'n' | 'f' | 'r' | '\\\"' | '\\'' | '\\\\' ) | UNICODE_ESC | OCTAL_ESC )
             int alt18=3;
             int LA18_0 = input.LA(1);
 
@@ -1326,7 +1326,7 @@ public class ScriptLexer extends Lexer {
             }
             switch (alt18) {
                 case 1 :
-                    // /Users/ernstl/PostDoc/BU/SBOL/Script/coding/ScriptWeaver/grammar/Script.g:170:9: '\\\\' ( 'b' | 't' | 'n' | 'f' | 'r' | '\\\"' | '\\'' | '\\\\' )
+                    // /Users/ernstl/PostDoc/BU/SBOL/Script/coding/ScriptWeaver/grammar/Script.g:184:9: '\\\\' ( 'b' | 't' | 'n' | 'f' | 'r' | '\\\"' | '\\'' | '\\\\' )
                     {
                     match('\\'); 
 
@@ -1343,7 +1343,7 @@ public class ScriptLexer extends Lexer {
                     }
                     break;
                 case 2 :
-                    // /Users/ernstl/PostDoc/BU/SBOL/Script/coding/ScriptWeaver/grammar/Script.g:171:9: UNICODE_ESC
+                    // /Users/ernstl/PostDoc/BU/SBOL/Script/coding/ScriptWeaver/grammar/Script.g:185:9: UNICODE_ESC
                     {
                     mUNICODE_ESC(); 
 
@@ -1351,7 +1351,7 @@ public class ScriptLexer extends Lexer {
                     }
                     break;
                 case 3 :
-                    // /Users/ernstl/PostDoc/BU/SBOL/Script/coding/ScriptWeaver/grammar/Script.g:172:9: OCTAL_ESC
+                    // /Users/ernstl/PostDoc/BU/SBOL/Script/coding/ScriptWeaver/grammar/Script.g:186:9: OCTAL_ESC
                     {
                     mOCTAL_ESC(); 
 
@@ -1371,7 +1371,7 @@ public class ScriptLexer extends Lexer {
     // $ANTLR start "OCTAL_ESC"
     public final void mOCTAL_ESC() throws RecognitionException {
         try {
-            // /Users/ernstl/PostDoc/BU/SBOL/Script/coding/ScriptWeaver/grammar/Script.g:177:5: ( '\\\\' ( '0' .. '3' ) ( '0' .. '7' ) ( '0' .. '7' ) | '\\\\' ( '0' .. '7' ) ( '0' .. '7' ) | '\\\\' ( '0' .. '7' ) )
+            // /Users/ernstl/PostDoc/BU/SBOL/Script/coding/ScriptWeaver/grammar/Script.g:191:5: ( '\\\\' ( '0' .. '3' ) ( '0' .. '7' ) ( '0' .. '7' ) | '\\\\' ( '0' .. '7' ) ( '0' .. '7' ) | '\\\\' ( '0' .. '7' ) )
             int alt19=3;
             int LA19_0 = input.LA(1);
 
@@ -1422,7 +1422,7 @@ public class ScriptLexer extends Lexer {
             }
             switch (alt19) {
                 case 1 :
-                    // /Users/ernstl/PostDoc/BU/SBOL/Script/coding/ScriptWeaver/grammar/Script.g:177:9: '\\\\' ( '0' .. '3' ) ( '0' .. '7' ) ( '0' .. '7' )
+                    // /Users/ernstl/PostDoc/BU/SBOL/Script/coding/ScriptWeaver/grammar/Script.g:191:9: '\\\\' ( '0' .. '3' ) ( '0' .. '7' ) ( '0' .. '7' )
                     {
                     match('\\'); 
 
@@ -1459,7 +1459,7 @@ public class ScriptLexer extends Lexer {
                     }
                     break;
                 case 2 :
-                    // /Users/ernstl/PostDoc/BU/SBOL/Script/coding/ScriptWeaver/grammar/Script.g:178:9: '\\\\' ( '0' .. '7' ) ( '0' .. '7' )
+                    // /Users/ernstl/PostDoc/BU/SBOL/Script/coding/ScriptWeaver/grammar/Script.g:192:9: '\\\\' ( '0' .. '7' ) ( '0' .. '7' )
                     {
                     match('\\'); 
 
@@ -1486,7 +1486,7 @@ public class ScriptLexer extends Lexer {
                     }
                     break;
                 case 3 :
-                    // /Users/ernstl/PostDoc/BU/SBOL/Script/coding/ScriptWeaver/grammar/Script.g:179:9: '\\\\' ( '0' .. '7' )
+                    // /Users/ernstl/PostDoc/BU/SBOL/Script/coding/ScriptWeaver/grammar/Script.g:193:9: '\\\\' ( '0' .. '7' )
                     {
                     match('\\'); 
 
@@ -1515,8 +1515,8 @@ public class ScriptLexer extends Lexer {
     // $ANTLR start "UNICODE_ESC"
     public final void mUNICODE_ESC() throws RecognitionException {
         try {
-            // /Users/ernstl/PostDoc/BU/SBOL/Script/coding/ScriptWeaver/grammar/Script.g:184:5: ( '\\\\' 'u' HEX_DIGIT HEX_DIGIT HEX_DIGIT HEX_DIGIT )
-            // /Users/ernstl/PostDoc/BU/SBOL/Script/coding/ScriptWeaver/grammar/Script.g:184:9: '\\\\' 'u' HEX_DIGIT HEX_DIGIT HEX_DIGIT HEX_DIGIT
+            // /Users/ernstl/PostDoc/BU/SBOL/Script/coding/ScriptWeaver/grammar/Script.g:198:5: ( '\\\\' 'u' HEX_DIGIT HEX_DIGIT HEX_DIGIT HEX_DIGIT )
+            // /Users/ernstl/PostDoc/BU/SBOL/Script/coding/ScriptWeaver/grammar/Script.g:198:9: '\\\\' 'u' HEX_DIGIT HEX_DIGIT HEX_DIGIT HEX_DIGIT
             {
             match('\\'); 
 
@@ -1807,7 +1807,7 @@ public class ScriptLexer extends Lexer {
             this.transition = DFA9_transition;
         }
         public String getDescription() {
-            return "136:1: FLOAT : ( ( '0' .. '9' )+ '.' ( '0' .. '9' )* ( EXPONENT )? | '.' ( '0' .. '9' )+ ( EXPONENT )? | ( '0' .. '9' )+ EXPONENT );";
+            return "150:1: FLOAT : ( ( '0' .. '9' )+ '.' ( '0' .. '9' )* ( EXPONENT )? | '.' ( '0' .. '9' )+ ( EXPONENT )? | ( '0' .. '9' )+ EXPONENT );";
         }
     }
     static final String DFA20_eotS =

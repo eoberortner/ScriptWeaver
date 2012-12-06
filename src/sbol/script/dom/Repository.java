@@ -1,11 +1,5 @@
 package sbol.script.dom;
 
-import java.io.IOException;
-
-import javax.xml.parsers.ParserConfigurationException;
-import javax.xml.xpath.XPathExpressionException;
-
-import org.xml.sax.SAXException;
 
 public class Repository 
 	extends NamedElement {
@@ -26,15 +20,14 @@ public class Repository
 		this.type = type;
 	}
 
+	public void setLocation(String location) {
+		this.location = location;
+	}
+	
 	public String getLocation() {
 		return location;
 	}
 
-	public void setLocation(String location) 
-			throws ParserConfigurationException, SAXException, IOException, XPathExpressionException {
-		this.location = location;
-	}
-	
 	public void setDescription(String description) {
 		this.description=description;
 	}

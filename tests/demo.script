@@ -9,4 +9,5 @@ construct module beta
 construct module gamma  
 	with components apFAB70, BBa_J61100, BBa_K590022, BBa_B0010.
 
+
 export module alpha to SBOL.

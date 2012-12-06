@@ -21,8 +21,7 @@ public class ComponentSearcher {
 	public ComponentSearcher() {}
 	
 	public Component search(SymbolTables objSymbolTables, String id) 
-			throws XPathExpressionException, ParserConfigurationException, 
-			       SAXException, IOException {
+			throws Exception {
 		
 		NamedElement objElement = null;
 		

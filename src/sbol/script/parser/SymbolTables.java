@@ -16,8 +16,6 @@ import sbol.script.dom.NamedElement;
 import sbol.script.dom.Repository;
 import sbol.script.dom.URLRepository;
 import sbol.script.dom.XMLFileRepository;
-import sbol.script.util.RepositoryImporter;
-import sbol.script.util.SBOLExporter;
 
 public class SymbolTables {
 	private HashMap<String,Repository> hmRepositories;
